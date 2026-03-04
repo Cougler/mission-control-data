@@ -1,0 +1,38 @@
+{
+  "mcpServers": [
+    {
+      "name": "pencil",
+      "type": "stdio",
+      "endpoint": "Pencil Desktop App"
+    },
+    {
+      "name": "vercel",
+      "type": "http",
+      "endpoint": "mcp.vercel.com"
+    },
+    {
+      "name": "supabase",
+      "type": "http",
+      "endpoint": "mcp.supabase.com/mcp"
+    },
+    {
+      "name": "figma-remote-mcp",
+      "type": "http",
+      "endpoint": "mcp.figma.com/mcp"
+    }
+  ],
+  "skills": [
+    {
+      "name": "app-roadmap",
+      "invoke": "/app-roadmap",
+      "description": "Generate a comprehensive app development roadmap for non-technical designers and founders. Acts as a senior so\u2026",
+      "added": "2026-03-03"
+    }
+  ],
+  "knownProjects": [
+    "/Users/aaroncougle",
+    "/Users/aaroncougle/Apps",
+    "/Users/aaroncougle/Claude",
+    "/Users/aaroncougle/Kinlo"
+  ]
+}
