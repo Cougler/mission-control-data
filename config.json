@@ -41,7 +41,8 @@
         "TypeScript",
         "Tailwind CSS",
         "shadcn/ui"
-      ]
+      ],
+      "notes": ""
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
@@ -53,7 +54,8 @@
         "Swift",
         "SwiftUI",
         "Supabase"
-      ]
+      ],
+      "notes": ""
     },
     {
       "path": "/Users/aaroncougle/Apps/craftr",
@@ -65,7 +67,8 @@
         "Swift",
         "SwiftUI",
         "Xcode"
-      ]
+      ],
+      "notes": ""
     },
     {
       "path": "/Users/aaroncougle/Apps/mission-control",
@@ -78,7 +81,8 @@
         "TypeScript",
         "Tailwind CSS",
         "Vercel"
-      ]
+      ],
+      "notes": ""
     },
     {
       "path": "/Users/aaroncougle/Apps/portfolio",
@@ -90,7 +94,8 @@
         "Next.js",
         "TypeScript",
         "Tailwind CSS"
-      ]
+      ],
+      "notes": ""
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
@@ -102,7 +107,8 @@
         "Next.js",
         "TypeScript",
         "Tailwind CSS"
-      ]
+      ],
+      "notes": ""
     }
   ]
 }
