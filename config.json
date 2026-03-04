@@ -95,7 +95,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": ""
+      "notes": "The portfolio homepage is fully redesigned with a dark-first glass UI \u2014 self-contained in page.tsx with CSS variable-based theming and a working dark/light toggle in the nav. Project cards now use glass containers that hug content, with timeline dashes extending on the bare background. Next: refine light mode styling and consider adding the about page to the new design system."
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
