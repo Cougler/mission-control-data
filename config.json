@@ -29,10 +29,80 @@
       "added": "2026-03-03"
     }
   ],
-  "knownProjects": [
-    "/Users/aaroncougle",
-    "/Users/aaroncougle/Apps",
-    "/Users/aaroncougle/Claude",
-    "/Users/aaroncougle/Kinlo"
+  "projects": [
+    {
+      "path": "/Users/aaroncougle/Apps/Flowki",
+      "display": "~/Apps/Flowki",
+      "name": "Flowki",
+      "description": "React task management app with drag-and-drop, focus timer, and today view",
+      "status": "active",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "shadcn/ui"
+      ]
+    },
+    {
+      "path": "/Users/aaroncougle/Apps/Kinlo",
+      "display": "~/Apps/Kinlo",
+      "name": "Kinlo",
+      "description": "iOS health tracking app for desk workers \u2014 workouts, water intake, movement streaks",
+      "status": "active",
+      "stack": [
+        "Swift",
+        "SwiftUI",
+        "Supabase"
+      ]
+    },
+    {
+      "path": "/Users/aaroncougle/Apps/craftr",
+      "display": "~/Apps/craftr",
+      "name": "craftr",
+      "description": "iOS app built with Swift/SwiftUI",
+      "status": "active",
+      "stack": [
+        "Swift",
+        "SwiftUI",
+        "Xcode"
+      ]
+    },
+    {
+      "path": "/Users/aaroncougle/Apps/mission-control",
+      "display": "~/Apps/mission-control",
+      "name": "mission-control",
+      "description": "Claude Code command center \u2014 live dashboard tracking projects, skills, MCPs, and session history",
+      "status": "active",
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Vercel"
+      ]
+    },
+    {
+      "path": "/Users/aaroncougle/Apps/portfolio",
+      "display": "~/Apps/portfolio",
+      "name": "portfolio",
+      "description": "Personal portfolio website",
+      "status": "active",
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "path": "/Users/aaroncougle/Apps/website-analyzer",
+      "display": "~/Apps/website-analyzer",
+      "name": "website-analyzer",
+      "description": "Next.js tool for analyzing and auditing websites",
+      "status": "active",
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ]
+    }
   ]
 }
