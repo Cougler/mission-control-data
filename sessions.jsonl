@@ -8,3 +8,4 @@
 {"timestamp": "2026-03-05T00:01:00.177974Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "UI polish session: light mode fixes, favicon update, animation rework, glass effects on all pages"}
 {"timestamp": "2026-03-05T04:48:24.517709Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Footer redesign, About page header fix, animation z-index fix, body bg theme sync"}
 {"timestamp": "2026-03-05T18:00:23.556906Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Built out contacts upload case study with charts and fixed dark/light mode readability across all pages"}
+{"timestamp": "2026-03-05T20:27:43.155881Z", "cwd": "/Users/aaroncougle/Apps/Flowki", "project": "Flowki", "summary": "Overhauled Flowki UX: Today view redesign, sidebar nav fixes, layout overflow fixes"}

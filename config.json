@@ -48,7 +48,7 @@
         "Tailwind CSS",
         "shadcn/ui"
       ],
-      "notes": ""
+      "notes": "Flowki's UX and layout were significantly overhauled this session: the Today view now shows a personalized greeting with separate overdue (red) and today sections, the sidebar uses compact Linear-style nav, All Tasks routing was fixed, and Account/Settings navigation was wired up. Layout overflow bugs were also resolved \u2014 the sidebar width is now content-driven, the right panel clips properly, and the board view has reliable horizontal scroll. Next up: continued UX polish and potentially adding more keyboard shortcuts or quick-add flows."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
