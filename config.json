@@ -1,11 +1,6 @@
 {
   "mcpServers": [
     {
-      "name": "pencil",
-      "type": "stdio",
-      "endpoint": "Pencil Desktop App"
-    },
-    {
       "name": "vercel",
       "type": "http",
       "endpoint": "mcp.vercel.com"
@@ -19,6 +14,11 @@
       "name": "figma-remote-mcp",
       "type": "http",
       "endpoint": "mcp.figma.com/mcp"
+    },
+    {
+      "name": "pencil",
+      "type": "stdio",
+      "endpoint": "Pencil Desktop App"
     }
   ],
   "skills": [
