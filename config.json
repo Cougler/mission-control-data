@@ -77,9 +77,15 @@
       "display": "~/Apps/RockPass",
       "name": "RockPass",
       "description": "",
-      "status": "",
-      "stack": [],
-      "notes": ""
+      "status": "in-progress",
+      "stack": [
+        "Expo",
+        "React Native",
+        "TypeScript",
+        "expo-router",
+        "react-native-maps"
+      ],
+      "notes": "Initial scaffold complete \u2014 Expo Router app with 5 screens (Home, Gyms, My Pass, Gear, Account), custom elevated center tab button, mock gym data with map integration, and RockPass beta coming-soon screen with waitlist flow. Ready to wire up real Google Maps API key, integrate Google Places for gym search, and build out auth layer next."
     },
     {
       "path": "/Users/aaroncougle/Apps/craftr",
