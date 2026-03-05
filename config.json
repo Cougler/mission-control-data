@@ -104,7 +104,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Dark/light mode now persists via localStorage across all project pages, the about page, and the homepage \u2014 with glass card effects throughout. Current session: updating homepage UI polish including subheading copy, fixing light mode color bugs on project cards (arrow, title, description), removing card shadows, enlarging the nav logo, updating the favicon, and reworking the Prototyping in Production animation connections to use an angular fork routing. Not yet deployed."
+      "notes": "Portfolio is live and polished \u2014 animation dots now render behind the browser window, the About page header matches the project page pattern, the footer is redesigned as a linear nav with work/app/page/connect columns and a secret link to deck.aaroncougle.com, and body background now syncs to the active theme. Next: continue refining content and adding any remaining case study pages."
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
