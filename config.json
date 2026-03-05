@@ -27,6 +27,12 @@
       "invoke": "/app-roadmap",
       "description": "Generate a comprehensive app development roadmap for non-technical designers and founders. Acts as a senior so\u2026",
       "added": "2026-03-03"
+    },
+    {
+      "name": "md",
+      "invoke": "/md",
+      "description": "List and browse all markdown files across active projects in ~/Apps and ~/.claude. Use when the user wants to \u2026",
+      "added": "2026-03-05"
     }
   ],
   "projects": [
