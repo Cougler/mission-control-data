@@ -110,7 +110,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Portfolio is live and polished \u2014 animation dots now render behind the browser window, the About page header matches the project page pattern, the footer is redesigned as a linear nav with work/app/page/connect columns and a secret link to deck.aaroncougle.com, and body background now syncs to the active theme. Next: continue refining content and adding any remaining case study pages."
+      "notes": "Portfolio is live with the contacts upload case study now fully built out \u2014 interactive before/after charts, experiment data files recreated, and before/after image comparisons added. Dark/light mode readability is fixed across all pages: Tailwind's static text-foreground classes replaced with dynamic CSS vars, hardcoded white metric card backgrounds converted to glass style, and footer link contrast corrected. Next: finish remaining case study pages (social, brandkit) and add real preview images to personal project cards."
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
