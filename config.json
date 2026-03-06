@@ -19,6 +19,16 @@
       "name": "pencil",
       "type": "stdio",
       "endpoint": "Pencil Desktop App"
+    },
+    {
+      "name": "linear",
+      "type": "http",
+      "endpoint": "mcp.linear.app/mcp"
+    },
+    {
+      "name": "clickup",
+      "type": "http",
+      "endpoint": "mcp.clickup.com/mcp"
     }
   ],
   "skills": [
