@@ -138,6 +138,15 @@
       "notes": ""
     },
     {
+      "path": "/Users/aaroncougle/Apps/hierarch-fos",
+      "display": "~/Apps/hierarch-fos",
+      "name": "hierarch-fos",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": "Just initialized Hierarch FOS \u2014 the marketing front-of-site for hierarchical.app. Building a Linear-style structure with sandy/fabric Claude-aesthetic colors. Dev server ready to start."
+    },
+    {
       "path": "/Users/aaroncougle/Apps/mission-control",
       "display": "~/Apps/mission-control",
       "name": "mission-control",
