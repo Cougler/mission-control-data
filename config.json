@@ -48,7 +48,7 @@
         "Tailwind CSS",
         "shadcn/ui"
       ],
-      "notes": "Flowki's UX and layout were significantly overhauled this session: the Today view now shows a personalized greeting with separate overdue (red) and today sections, the sidebar uses compact Linear-style nav, All Tasks routing was fixed, and Account/Settings navigation was wired up. Layout overflow bugs were also resolved \u2014 the sidebar width is now content-driven, the right panel clips properly, and the board view has reliable horizontal scroll. Next up: continued UX polish and potentially adding more keyboard shortcuts or quick-add flows."
+      "notes": "Flowki now has a cohesive 'Warm Studio' visual identity \u2014 Inter Variable font, warm dark backgrounds, electric violet accent (#7C5CFC), 6px radius, and a consistent borderless form style throughout. The task list has animated bulk actions (status change, project move, mark done, delete) that replace the toolbar on selection; the Today view was rebuilt to match the list view layout with header bar and flat rows; the task detail drawer is non-modal so the page stays interactive while it's open; and amber/sky-blue color semantics were separated so 'due today' and 'waiting for' no longer share a color. Next: auth/persistence wiring or continued UX refinement."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
