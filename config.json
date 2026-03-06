@@ -180,7 +180,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": ""
+      "notes": "Showcase app scaffolded at showcase.aaroncougle.com. Same deck mechanics (dot nav, keyboard/scroll, fade transitions) but image-only slides with app name + concept/shipped badge. Ready for images and Vercel deploy."
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
