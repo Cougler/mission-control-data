@@ -58,7 +58,7 @@
         "Tailwind CSS",
         "shadcn/ui"
       ],
-      "notes": "Flowki now has a cohesive 'Warm Studio' visual identity \u2014 Inter Variable font, warm dark backgrounds, electric violet accent (#7C5CFC), 6px radius, and a consistent borderless form style throughout. The task list has animated bulk actions (status change, project move, mark done, delete) that replace the toolbar on selection; the Today view was rebuilt to match the list view layout with header bar and flat rows; the task detail drawer is non-modal so the page stays interactive while it's open; and amber/sky-blue color semantics were separated so 'due today' and 'waiting for' no longer share a color. Next: auth/persistence wiring or continued UX refinement."
+      "notes": "The app has been rebranded from Flowki to Hierarch with a new logo (logo.svg used everywhere), domain hierarchical.app, and tagline 'Organization for designers'. The shell UI was overhauled: sidebar and outer frame share #262624 background, main content floats as a rounded card, the task drawer uses Framer Motion for snappy spring animation with a full-height hover-reveal close strip, and task rows now have a colored status dot that opens a status-change dropdown. Today view now uses the same TaskRow component as all other views. Next: auth/persistence wiring or continued UX polish."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
