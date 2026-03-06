@@ -50,6 +50,15 @@
       "path": "/Users/aaroncougle/Apps/Flowki",
       "display": "~/Apps/Flowki",
       "name": "Flowki",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
+    },
+    {
+      "path": "/Users/aaroncougle/Apps/Hierarch",
+      "display": "~/Apps/Hierarch",
+      "name": "Hierarch",
       "description": "React task management app with drag-and-drop, focus timer, and today view",
       "status": "active",
       "stack": [
