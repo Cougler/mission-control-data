@@ -39,6 +39,12 @@
       "added": "2026-03-03"
     },
     {
+      "name": "log-mission",
+      "invoke": "/log-mission",
+      "description": "Log the current session to Mission Control and write a handoff CLAUDE.md to the project folder so a new Claude\u2026",
+      "added": "2026-03-06"
+    },
+    {
       "name": "md",
       "invoke": "/md",
       "description": "List and browse all markdown files across active projects in ~/Apps and ~/.claude. Use when the user wants to \u2026",
