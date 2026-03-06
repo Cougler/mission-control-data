@@ -180,7 +180,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "Showcase app scaffolded at showcase.aaroncougle.com. Same deck mechanics (dot nav, keyboard/scroll, fade transitions) but image-only slides with app name + concept/shipped badge. Ready for images and Vercel deploy."
+      "notes": "Showcase is live at showcase.aaroncougle.com. 4 slides: Flowki, Hierarch, Plants Are People Too, Adonde. Bento grid layouts, sidebar nav, lightbox expand. Deploy: npx vercel deploy --prod --yes --scope acportfolio from ~/Apps/showcase."
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
