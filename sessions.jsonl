@@ -12,3 +12,4 @@
 {"timestamp": "2026-03-05T20:37:43.904672Z", "cwd": "/Users/aaroncougle/Apps/RockPass", "project": "RockPass", "summary": "Built full Phase 1 RockPass scaffold: 5 Expo screens, custom tab bar, Google Maps with live API key, and Figma plugin"}
 {"timestamp": "2026-03-06T02:34:18.885353Z", "cwd": "/Users/aaroncougle/Apps/Flowki", "project": "Flowki", "summary": "Flowki: Warm Studio visual identity, bulk actions toolbar, Today view rebuilt, non-modal drawer, color semantics fixed"}
 {"timestamp": "2026-03-06T17:48:39.977777Z", "cwd": "/Users/aaroncougle/Apps/Flowki", "project": "Flowki", "summary": "Rebranded to Hierarch, overhauled shell UI with floating card layout, Framer Motion drawer, status dot dropdowns on task rows"}
+{"timestamp": "2026-03-06T18:14:40.223290Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Fixed blank screen bug, pushed to GitHub, renamed to Hierarch, redesigned task drawer as floating overlay sheet"}

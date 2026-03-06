@@ -67,7 +67,7 @@
         "Tailwind CSS",
         "shadcn/ui"
       ],
-      "notes": "The app has been rebranded from Flowki to Hierarch with a new logo (logo.svg used everywhere), domain hierarchical.app, and tagline 'Organization for designers'. The shell UI was overhauled: sidebar and outer frame share #262624 background, main content floats as a rounded card, the task drawer uses Framer Motion for snappy spring animation with a full-height hover-reveal close strip, and task rows now have a colored status dot that opens a status-change dropdown. Today view now uses the same TaskRow component as all other views. Next: auth/persistence wiring or continued UX polish."
+      "notes": "Hierarch is running locally with a redesigned task drawer \u2014 now a floating overlay sheet that scales from the top-right, stays open as you browse tasks, and uses a floating X close button to the left. The blank-screen bug (missing DnD context + undestructured onTaskDelete prop) was fixed and the app is on GitHub at github.com/Cougler/Hierarch. Next: continue UX polish or wire up auth/persistence."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
