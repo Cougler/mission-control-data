@@ -39,6 +39,12 @@
       "added": "2026-03-03"
     },
     {
+      "name": "end-mission",
+      "invoke": "/end-mission",
+      "description": "Stop all running dev servers (Next.js, Vite, etc.) and confirm they're closed.",
+      "added": "2026-03-06"
+    },
+    {
       "name": "log-mission",
       "invoke": "/log-mission",
       "description": "Log the current session to Mission Control and write a handoff CLAUDE.md to the project folder so a new Claude\u2026",
