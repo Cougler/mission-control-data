@@ -83,9 +83,10 @@
         "React",
         "TypeScript",
         "Tailwind CSS",
-        "shadcn/ui"
+        "shadcn/ui",
+        "Supabase"
       ],
-      "notes": "Hierarch is running locally with a redesigned task drawer \u2014 now a floating overlay sheet that scales from the top-right, stays open as you browse tasks, and uses a floating X close button to the left. The blank-screen bug (missing DnD context + undestructured onTaskDelete prop) was fixed and the app is on GitHub at github.com/Cougler/Hierarch. Next: continue UX polish or wire up auth/persistence."
+      "notes": "Hierarch is fully connected to the Flowki Supabase project (Pro UX Tasks) and deployed to Vercel at hierarch.vercel.app. The custom domain hierarchical.app is configured on Vercel and just needs two DNS records added in Squarespace to go live. This session fixed a root cause bug where task.project stored project names instead of IDs, widened the project column in list view, and updated the Add Task button to amber."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",

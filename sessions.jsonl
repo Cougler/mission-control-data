@@ -15,3 +15,4 @@
 {"timestamp": "2026-03-06T18:14:40.223290Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Fixed blank screen bug, pushed to GitHub, renamed to Hierarch, redesigned task drawer as floating overlay sheet"}
 {"timestamp": "2026-03-07T03:37:18.755043Z", "cwd": "/Users/aaroncougle/Apps/showcase", "project": "showcase", "summary": "Polished showcase site: simplified bento layout, mobile responsive, favicon, Hierarch URL updated"}
 {"timestamp": "2026-03-07T03:38:42.861987Z", "cwd": "/Users/aaroncougle/Apps/hierarch-fos", "project": "hierarch-fos", "summary": "Built and deployed Hierarch FOS marketing site to tryhierarch.vercel.app with mobile responsive layout"}
+{"timestamp": "2026-03-07T03:39:17.693311Z", "cwd": "~/Apps/Hierarch", "project": "Hierarch", "summary": "Connected Supabase, deployed to Vercel, fixed project column bug, amber CTA button"}
