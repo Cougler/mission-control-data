@@ -144,7 +144,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "Just initialized Hierarch FOS \u2014 the marketing front-of-site for hierarchical.app. Building a Linear-style structure with sandy/fabric Claude-aesthetic colors. Dev server ready to start."
+      "notes": "Hierarch FOS is live at tryhierarch.vercel.app \u2014 a Linear-style marketing site with a sandy/fabric color palette, real app UI mocks, and the actual Hierarch logo throughout. Mobile responsive with CSS media queries covering nav, hero mock, feature grid, footer, and CTA. Next: wire up real waitlist/signup, add a pricing section, and connect hierarchical.app domain."
     },
     {
       "path": "/Users/aaroncougle/Apps/mission-control",
