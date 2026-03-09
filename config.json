@@ -172,7 +172,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Portfolio is live with the contacts upload case study now fully built out \u2014 interactive before/after charts, experiment data files recreated, and before/after image comparisons added. Dark/light mode readability is fixed across all pages: Tailwind's static text-foreground classes replaced with dynamic CSS vars, hardcoded white metric card backgrounds converted to glass style, and footer link contrast corrected. Next: finish remaining case study pages (social, brandkit) and add real preview images to personal project cards."
+      "notes": "All three A/B test case studies (Mobile Web Experience, Mobile Email Editor, Contacts Upload) are fully built with accurate experiment data, comparison bar charts, and detailed narratives. Charts and metric cards dynamically adapt to dark/light mode via CSS variables. A page-level lightbox with prev/next navigation is wired up for all project images. Email editor page now focuses on MEQ-depth breakdowns for both sending and creation. Markdown exports of all three experiments are in casestudies/ for cross-project reference. Next: continue polish or add new case studies."
     },
     {
       "path": "/Users/aaroncougle/Apps/showcase",
