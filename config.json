@@ -97,7 +97,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "The task drawer has been heavily polished \u2014 Waiting For and Resources sections are redesigned with custom circular toggles and subtle containers, due dates now support time selection, and the close button is a floating pill that springs out from under the drawer on open. The Linear integration was already fully built from a previous session; a labels normalization bug was fixed and it's ready to test. Next up is building smart paste with Claude Haiku (text or image, structured extraction via a Vercel Edge Function)."
+      "notes": "Hierarch now has a nonlinear design phases system replacing the old engineering-style statuses \u2014 tasks move through Explore, Define, Refine, Critique, and Handoff phases with full phase history tracking, a critique prompt that asks for reviewer and deadline, and a vertical activity log in the task drawer. The Linear integration is fixed and working, Figma URLs sync to Linear as attachments, and all flowki references are renamed to hierarch. Next: discuss the personal design cockpit vision, build the Insights view for phase analytics, and plan Jira/ClickUp integrations."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
