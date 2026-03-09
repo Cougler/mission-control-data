@@ -97,7 +97,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Hierarch has had a big UI polish session \u2014 inline task creation is live across all task views with the optimistic ID flicker fixed, the Capacity page is fully redesigned with translucent range bars, project labels above the bars, and task due-date dots. Color selection is restored to the IconPicker and flows through to capacity bar colors. Deployed to hierarch.vercel.app."
+      "notes": "The task drawer has been heavily polished \u2014 Waiting For and Resources sections are redesigned with custom circular toggles and subtle containers, due dates now support time selection, and the close button is a floating pill that springs out from under the drawer on open. The Linear integration was already fully built from a previous session; a labels normalization bug was fixed and it's ready to test. Next up is building smart paste with Claude Haiku (text or image, structured extraction via a Vercel Edge Function)."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
