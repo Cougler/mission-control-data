@@ -92,7 +92,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Hierarch is fully connected to the Flowki Supabase project (Pro UX Tasks) and deployed to Vercel at hierarch.vercel.app. The custom domain hierarchical.app is configured on Vercel and just needs two DNS records added in Squarespace to go live. This session fixed a root cause bug where task.project stored project names instead of IDs, widened the project column in list view, and updated the Add Task button to amber."
+      "notes": "Hierarch has had a big UI polish session \u2014 inline task creation is live across all task views with the optimistic ID flicker fixed, the Capacity page is fully redesigned with translucent range bars, project labels above the bars, and task due-date dots. Color selection is restored to the IconPicker and flows through to capacity bar colors. Deployed to hierarch.vercel.app."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
