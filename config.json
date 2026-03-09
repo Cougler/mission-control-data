@@ -29,6 +29,11 @@
       "name": "pencil",
       "type": "stdio",
       "endpoint": "Pencil Desktop App"
+    },
+    {
+      "name": "gcloud",
+      "type": "stdio",
+      "endpoint": "npx"
     }
   ],
   "skills": [
