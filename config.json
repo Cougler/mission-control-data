@@ -45,6 +45,12 @@
       "added": "2026-03-06"
     },
     {
+      "name": "handoff",
+      "invoke": "/handoff",
+      "description": "Read a project's handoff file and resume work exactly where the last session left off.",
+      "added": "2026-03-09"
+    },
+    {
       "name": "log-mission",
       "invoke": "/log-mission",
       "description": "Log the current session to Mission Control and write a handoff CLAUDE.md to the project folder so a new Claude\u2026",
