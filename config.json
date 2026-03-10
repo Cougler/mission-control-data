@@ -174,7 +174,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "All three A/B test case studies (Mobile Web Experience, Mobile Email Editor, Contacts Upload) are fully built with accurate experiment data, comparison bar charts, and detailed narratives. Charts and metric cards dynamically adapt to dark/light mode via CSS variables. A page-level lightbox with prev/next navigation is wired up for all project images. Email editor page now focuses on MEQ-depth breakdowns for both sending and creation. Markdown exports of all three experiments are in casestudies/ for cross-project reference. Next: continue polish or add new case studies."
+      "notes": "Mobile Email Editor case study has a new narrative arc: Express Send as a workaround, research-backed pushback, proven design pattern adapted in two weeks, and an experimentation section with hypothesis/test/result layout. Writing style rules are saved in memory (no em dashes, no contrastive negation patterns). Next: continue polish on remaining case studies or deploy."
     },
     {
       "path": "/Users/aaroncougle/Apps/showcase",
