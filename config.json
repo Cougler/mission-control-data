@@ -26,14 +26,14 @@
       "endpoint": "mcp.clickup.com/mcp"
     },
     {
-      "name": "pencil",
-      "type": "stdio",
-      "endpoint": "Pencil Desktop App"
-    },
-    {
       "name": "gcloud",
       "type": "stdio",
       "endpoint": "npx"
+    },
+    {
+      "name": "pencil",
+      "type": "stdio",
+      "endpoint": "Pencil Desktop App"
     }
   ],
   "skills": [
