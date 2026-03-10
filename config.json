@@ -76,15 +76,6 @@
   ],
   "projects": [
     {
-      "path": "/Users/aaroncougle/Apps/Flowki",
-      "display": "~/Apps/Flowki",
-      "name": "Flowki",
-      "description": "",
-      "status": "",
-      "stack": [],
-      "notes": ""
-    },
-    {
       "path": "/Users/aaroncougle/Apps/Hierarch",
       "display": "~/Apps/Hierarch",
       "name": "Hierarch",
