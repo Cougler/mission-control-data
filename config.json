@@ -97,7 +97,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Hierarch now has a nonlinear design phases system replacing the old engineering-style statuses \u2014 tasks move through Explore, Define, Refine, Critique, and Handoff phases with full phase history tracking, a critique prompt that asks for reviewer and deadline, and a vertical activity log in the task drawer. The Linear integration is fixed and working, Figma URLs sync to Linear as attachments, and all flowki references are renamed to hierarch. Next: discuss the personal design cockpit vision, build the Insights view for phase analytics, and plan Jira/ClickUp integrations."
+      "notes": "The Today view is replaced by a designer's Briefing \u2014 a two-column morning dashboard with active projects (2/3 width), recent progress timeline (1/3), needs-attention items, and a design notes capture area with task linking and convert-to-task. The focus timer is removed from the sidebar and integrated into task rows as an inline icon that shows a live pulsing countdown when running, with a redesigned full-screen timer view featuring a progress ring, large play/pause button, and session notepad that appends to the task on save. Resources view is now a table list with checkboxes and bulk actions. Next: Insights view for phase analytics, deploy these changes, and continue the design cockpit vision."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
