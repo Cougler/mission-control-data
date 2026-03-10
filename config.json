@@ -88,7 +88,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "The Critique phase is renamed to Feedback with a redesigned prompt that captures person/team name, notes, and deadline \u2014 feedback notes now display in the task's progress timeline. The Briefing page is fully redesigned with a dashboard-style layout: large greeting header with Search/New Task actions, 4 stat cards (active tasks, projects, needs attention, completed), two-column body (clean project list rows + needs attention cards), and design notes below. Sidebar and overview text contrast are significantly boosted for readability. Next: deploy these changes, build the Insights view for phase analytics, and continue the design cockpit vision."
+      "notes": "The Briefing overview page is fully overhauled with glass morphism styling, viewport-contained scrolling, and a project preview drawer that opens inline so users don't navigate away. Design notes are now a full system with a rich-text NoteDrawer (contentEditable with toolbar), note types (Freeform/Decision/Feedback/Research/Critique), and create-note buttons on task rows across all views. The resources tab in projects now uses a table layout matching the main resources page. Next: deploy these changes, build the Insights view, and continue the design cockpit vision."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
