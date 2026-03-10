@@ -71,7 +71,7 @@
       "name": "start-mission",
       "invoke": "/start-mission",
       "description": "Start a project's local dev server and the Mission Control dashboard simultaneously.",
-      "added": "2026-03-08"
+      "added": "2026-03-10"
     }
   ],
   "projects": [
