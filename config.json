@@ -97,7 +97,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "The Today view is replaced by a designer's Briefing \u2014 a two-column morning dashboard with active projects (2/3 width), recent progress timeline (1/3), needs-attention items, and a design notes capture area with task linking and convert-to-task. The focus timer is removed from the sidebar and integrated into task rows as an inline icon that shows a live pulsing countdown when running, with a redesigned full-screen timer view featuring a progress ring, large play/pause button, and session notepad that appends to the task on save. Resources view is now a table list with checkboxes and bulk actions. Next: Insights view for phase analytics, deploy these changes, and continue the design cockpit vision."
+      "notes": "The Critique phase is renamed to Feedback with a redesigned prompt that captures person/team name, notes, and deadline \u2014 feedback notes now display in the task's progress timeline. The Briefing page is fully redesigned with a dashboard-style layout: large greeting header with Search/New Task actions, 4 stat cards (active tasks, projects, needs attention, completed), two-column body (clean project list rows + needs attention cards), and design notes below. Sidebar and overview text contrast are significantly boosted for readability. Next: deploy these changes, build the Insights view for phase analytics, and continue the design cockpit vision."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
