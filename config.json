@@ -88,7 +88,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Overview page is polished and live \u2014 responsive two-column layout, unified activity feed (phase changes, notes, tasks, projects), project preview drawer, and all drawers close each other via centralized closeAllDrawers(). Linear issues now display as a table instead of kanban. Demo data and onboarding are rewritten with realistic projects and design-phase-focused content. Deployed to hierarchical.app. Next: build Insights view, continue design cockpit vision."
+      "notes": "Sidebar restructured with Projects and Notes as their own table-view pages, pinnable projects, and a project creation drawer. Feedback phase now auto-creates a linked note and opens the note drawer immediately for editing. Notes appear on the task drawer and in the activity feed with inline links. Edge function deployed to Supabase with basePath fix. New accounts get self-documenting starter data seeded to the database. Scrollbars hidden globally until scrolling. Next: build Insights view, Jira integration, deploy latest changes."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",

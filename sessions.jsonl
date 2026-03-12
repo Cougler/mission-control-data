@@ -25,3 +25,4 @@
 {"timestamp": "2026-03-10T15:57:03.055542Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Briefing overhaul: glass morphism, viewport scrolling, project preview drawer, NoteDrawer with rich text, create-note on task rows, table resources"}
 {"timestamp": "2026-03-10T21:12:06.616879Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Overview polish, Linear table view, demo data rewrite, drawer system overhaul \u2014 deployed to hierarchical.app"}
 {"timestamp": "2026-03-10T22:03:12.327829Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Rewrote Mobile Email Editor case study narrative and established writing style rules"}
+{"timestamp": "2026-03-12T04:23:38.962703Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Sidebar restructure, feedback-note flow, edge function deploy, starter data seeding, scrollbar cleanup"}
