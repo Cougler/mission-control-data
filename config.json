@@ -44,6 +44,12 @@
       "added": "2026-03-03"
     },
     {
+      "name": "create-agents",
+      "invoke": "/create-agents",
+      "description": "Scaffold security-audit, code-quality, and consistency-check agents tailored to the current project.",
+      "added": "2026-03-13"
+    },
+    {
       "name": "end-mission",
       "invoke": "/end-mission",
       "description": "Stop all running dev servers (Next.js, Vite, etc.) and confirm they're closed.",
