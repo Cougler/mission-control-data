@@ -44,6 +44,12 @@
       "added": "2026-03-03"
     },
     {
+      "name": "audit",
+      "invoke": "/audit",
+      "description": "Run all three audit agents in parallel (security, code quality, consistency) and return a combined report.",
+      "added": "2026-03-13"
+    },
+    {
       "name": "create-agents",
       "invoke": "/create-agents",
       "description": "Scaffold security-audit, code-quality, and consistency-check agents tailored to the current project.",
@@ -72,12 +78,6 @@
       "invoke": "/md",
       "description": "List and browse all markdown files across active projects in ~/Apps and ~/.claude. Use when the user wants to \u2026",
       "added": "2026-03-05"
-    },
-    {
-      "name": "review",
-      "invoke": "/review",
-      "description": "Run all three Hierarch audit agents in parallel (security, code quality, consistency) and return a combined re\u2026",
-      "added": "2026-03-13"
     },
     {
       "name": "start-mission",
