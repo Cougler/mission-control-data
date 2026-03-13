@@ -68,6 +68,12 @@
       "added": "2026-03-05"
     },
     {
+      "name": "review",
+      "invoke": "/review",
+      "description": "Run all three Hierarch audit agents in parallel (security, code quality, consistency) and return a combined re\u2026",
+      "added": "2026-03-13"
+    },
+    {
       "name": "start-mission",
       "invoke": "/start-mission",
       "description": "Start a project's local dev server and the Mission Control dashboard simultaneously.",
