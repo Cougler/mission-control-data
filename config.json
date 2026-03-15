@@ -100,7 +100,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Notes are renamed to Artifacts across the entire app, with 6 new artifact types (Link, Figma, Prototype, Screenshot, Video, Doc) alongside the original 4. The Artifacts view uses the same CSS Grid table as All Tasks with resizable columns, sorting, filtering by type/project, and grouping. Figma artifacts show a URL input with oEmbed thumbnail preview. Sidebar is restructured with inline project list, context menu actions, and an Integrations section with Linear. New accounts get minimal starter data while demo mode has realistic fake projects. Next: deploy latest changes, build Insights view, Jira integration."
+      "notes": "All Tasks and Artifacts views share identical CSS Grid table patterns (resizable columns, search, sort, filter, group, row animations) with duplicated implementations. This session reviewed both table components in detail and outlined the full feature set for extraction into a shared DataTable component. Next: build the reusable DataTable component and refactor TaskBoard list view and AttachmentsView to consume it."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
