@@ -46,8 +46,8 @@
     {
       "name": "audit",
       "invoke": "/audit",
-      "description": "Run all three audit agents in parallel (security, code quality, consistency) and return a combined report.",
-      "added": "2026-03-13"
+      "description": "Run all four audit agents in parallel (security, code quality, consistency, data flow) and return a combined r\u2026",
+      "added": "2026-03-16"
     },
     {
       "name": "create-agents",
