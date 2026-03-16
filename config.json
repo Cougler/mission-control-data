@@ -100,7 +100,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "All Tasks and Artifacts views share identical CSS Grid table patterns (resizable columns, search, sort, filter, group, row animations) with duplicated implementations. This session reviewed both table components in detail and outlined the full feature set for extraction into a shared DataTable component. Next: build the reusable DataTable component and refactor TaskBoard list view and AttachmentsView to consume it."
+      "notes": "The UnifiedDrawer system is live with a navigation stack (project \u2192 task \u2192 artifact) that transitions content within a single drawer shell using directional slide animations and breadcrumbs. The Overview page is refined with subtler metric cards (top/bottom borders only, smaller type), project cards with inline needs-attention indicators, and swapped background treatments between Active Projects and Recent Progress. Mobile fallback drawers are restored. Next: deploy these changes, build the Insights view, continue DataTable refactor."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
