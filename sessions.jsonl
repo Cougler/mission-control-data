@@ -30,3 +30,4 @@
 {"timestamp": "2026-03-15T04:23:34.507965Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Reviewed All Tasks and Artifacts table implementations, outlined shared DataTable component features for extraction"}
 {"timestamp": "2026-03-16T03:23:14.907887Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "UnifiedDrawer navigation stack, Overview page refinements, mobile drawer fallbacks"}
 {"timestamp": "2026-03-16T18:06:20.809929Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Built Integrations page, Linear connect drawer, conditional sidebar, planned Linear OAuth migration, added data-flow audit agent"}
+{"timestamp": "2026-03-17T14:58:47.020128Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Light mode theming, blockers system, phase rename, artifact URL previews, inline link detection"}
