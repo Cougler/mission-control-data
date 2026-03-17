@@ -100,7 +100,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Light mode is fully themed with dynamic CSS variable tokens (shell, drawer, surface, attention) replacing all hardcoded dark-only colors. Phases renamed from Explore/Define/Refine/Feedback/Handoff to Explore/Design/Iterate/Review/Handoff with full DB migration support via LEGACY_STATUS_MAP. Blockers are now a first-class entity (task_blockers Supabase table with RLS) replacing the old waitingFor JSON blob, with full CRUD, dashboard integration, and lock icons on blocked tasks. Artifacts gained URL fields with previews (YouTube/Vimeo/Loom embeds, image previews, favicon cards) and inline link detection in the rich text editor. Next: deploy latest changes, fix any remaining light mode contrast issues, build Insights view."
+      "notes": "Projects now own design phases (Research/Explore/Design/Iterate/Review/Handoff) while tasks use simple statuses (To Do/In Progress/Feedback/Done). The blockers system is fully wired with selectedTask sync fixed. Project drawer is redesigned with inline editable description, Popover phase picker, compact stats, artifacts section with type icons, and pinned footer. Onboarding is a 4-step flow with mock UI showcasing phases, feedback loop, data model grid, and Overview as morning standup. Light mode theme, artifact URL previews, and inline link detection are deployed. Next: build Insights view for phase analytics, Linear OAuth flow, push to GitHub."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
