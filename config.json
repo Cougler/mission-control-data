@@ -100,7 +100,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Onboarding is redesigned as a 6-slide image-based walkthrough dialog overlaying the real app, covering Projects, Tasks, Artifacts, Overview, and Capacity. The project page header now has an Add Task button next to Details, and the empty task list shows a centered Add Task CTA instead of the inline affordance. Overview needs-attention tasks use 13px text and the per-project attention badge is removed. Next: build Insights view, Linear OAuth flow, push to GitHub."
+      "notes": "Linear and Figma OAuth integrations are fully built with Supabase Edge Function routes, token storage in an integrations table with RLS, auto-refresh on 401, and reactive sidebar badges. Figma comments flow through a team webhook into a figma_comments table, with a threaded chat UI for viewing and replying. The Add Task button is removed from the project page header. Next: deploy edge function for Figma webhooks, test the full Figma comment flow, build Insights view, push to GitHub."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
