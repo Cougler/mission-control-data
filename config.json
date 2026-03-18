@@ -100,7 +100,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Linear and Figma OAuth integrations are fully built. Cost audit completed: no overnight billing risk (Supabase Free plan, static Vite SPA on Vercel, all polling is client-side only). Priority for next session: replace Figma unread 30s polling with Supabase Realtime subscriptions, then deploy edge function for Figma webhooks and build Insights view."
+      "notes": "Linear and Figma OAuth integrations are fully built and deployed to hierarchical.app. Cost audit confirmed no overnight billing risk. Priority for next session: replace Figma unread 30s polling with Supabase Realtime subscriptions, then deploy edge function for Figma webhooks and build Insights view."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
