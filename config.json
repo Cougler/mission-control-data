@@ -100,7 +100,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Project details is now a dialog with save/cancel, Popover phase picker, and typed blockers (person/team/external/task with resolve/unresolve). Task drawer labels \"Status\" correctly, project column hides on project pages. New accounts start empty with descriptive placeholders on the Overview (faded activity examples in Recent Progress, create-project CTA in Active Projects) and sidebar. Starter data seeding and stale localStorage artifacts are cleared for fresh accounts. Next: build Insights view, Linear OAuth flow, push to GitHub."
+      "notes": "Onboarding is redesigned as a 6-slide image-based walkthrough dialog overlaying the real app, covering Projects, Tasks, Artifacts, Overview, and Capacity. The project page header now has an Add Task button next to Details, and the empty task list shows a centered Add Task CTA instead of the inline affordance. Overview needs-attention tasks use 13px text and the per-project attention badge is removed. Next: build Insights view, Linear OAuth flow, push to GitHub."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",

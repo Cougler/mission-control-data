@@ -33,3 +33,4 @@
 {"timestamp": "2026-03-17T14:58:47.020128Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Light mode theming, blockers system, phase rename, artifact URL previews, inline link detection"}
 {"timestamp": "2026-03-17T18:07:50.375000Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Project phases, task statuses, onboarding redesign, blocker sync fix, project drawer overhaul"}
 {"timestamp": "2026-03-17T20:45:31.488585Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Project details dialog, empty state placeholders, new account cleanup"}
+{"timestamp": "2026-03-18T02:41:51.008734Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Redesigned onboarding as 6-slide image walkthrough, project page Add Task button, Overview attention text polish"}
