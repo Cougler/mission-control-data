@@ -100,7 +100,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Linear and Figma OAuth integrations are fully built with Supabase Edge Function routes, token storage in an integrations table with RLS, auto-refresh on 401, and reactive sidebar badges. Figma comments flow through a team webhook into a figma_comments table, with a threaded chat UI for viewing and replying. The Add Task button is removed from the project page header. Next: deploy edge function for Figma webhooks, test the full Figma comment flow, build Insights view, push to GitHub."
+      "notes": "Linear and Figma OAuth integrations are fully built. Cost audit completed: no overnight billing risk (Supabase Free plan, static Vite SPA on Vercel, all polling is client-side only). Priority for next session: replace Figma unread 30s polling with Supabase Realtime subscriptions, then deploy edge function for Figma webhooks and build Insights view."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
