@@ -159,7 +159,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "Hierarch FOS is live at tryhierarch.vercel.app \u2014 a Linear-style marketing site with a sandy/fabric color palette, real app UI mocks, and the actual Hierarch logo throughout. Mobile responsive with CSS media queries covering nav, hero mock, feature grid, footer, and CTA. Next: wire up real waitlist/signup, add a pricing section, and connect hierarchical.app domain."
+      "notes": "Hierarch FOS marketing site is live at tryhierarch.com. All login/signup links now point to hierarchical.app. Feature sections simplified from 10 total cards to 7, integrations updated to reflect Linear + Figma (live) and Jira (coming soon), testimonials cleaned up. Next: connect tryhierarch.com domain properly, add real pricing tiers, build out remaining placeholder pages."
     },
     {
       "path": "/Users/aaroncougle/Apps/mission-control",

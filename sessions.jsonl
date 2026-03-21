@@ -38,3 +38,4 @@
 {"timestamp": "2026-03-18T05:54:35.323332Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Cost audit completed, planned Supabase Realtime migration for Figma polling"}
 {"timestamp": "2026-03-18T05:57:32.237757Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Deployed with OAuth integrations, cost audit clean"}
 {"timestamp": "2026-03-18T23:08:06.729739Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Linear webhooks pipeline, Recent Progress event ledger, unified status selectors, drawer redesign"}
+{"timestamp": "2026-03-21T04:12:53.804553Z", "cwd": "/Users/aaroncougle/Apps/hierarch-fos", "project": "hierarch-fos", "summary": "Updated Hierarch FOS login/signup links to hierarchical.app, simplified feature sections, and deployed"}
