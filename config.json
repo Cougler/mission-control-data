@@ -198,6 +198,15 @@
       "notes": "All 9 tools built and styled with light mode Coolors-inspired design. Custom wrench logo with favicon. Deployed to Vercel with prouxkit.com domain configured."
     },
     {
+      "path": "/Users/aaroncougle/Apps/radar",
+      "display": "~/Apps/radar",
+      "name": "radar",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": "Initial build complete. Next.js 16 app with Supabase backend, Vercel cron job scanning 50 companies across Greenhouse and Ashby every 10 minutes for remote Senior Product Designer roles. PWA with push notifications. Pending: deploy to Vercel and set env vars (service role key needed from Supabase dashboard)."
+    },
+    {
       "path": "/Users/aaroncougle/Apps/showcase",
       "display": "~/Apps/showcase",
       "name": "showcase",
