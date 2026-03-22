@@ -122,7 +122,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": ""
+      "notes": "NourishAI MVP is running in the iOS simulator with full onboarding (9 screens), auth, macro calculator, AI meal plan generation via Claude Haiku, water tracking, and barcode product scanner with EU-banned ingredient checking. Supabase project is live with 11 tables, RLS, and Edge Function deployed. Just fixed the core auth flow (SafeAreaProvider, JWT token passing, swap atomicity). Next: food logging feature (barcode scan, photo-to-macros via Claude Vision, manual entry) and development build for physical device testing."
     },
     {
       "path": "/Users/aaroncougle/Apps/ProductDesignerDeck",
