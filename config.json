@@ -106,14 +106,14 @@
       "path": "/Users/aaroncougle/Apps/Kinlo",
       "display": "~/Apps/Kinlo",
       "name": "Kinlo",
-      "description": "iOS health tracking app for desk workers \u2014 workouts, water intake, movement streaks",
+      "description": "iOS lifestyle app. European wellness system with AI meal plans, macro tracking, food logging, hydration, movement, sleep, and EU-banned product scanner.",
       "status": "active",
       "stack": [
         "Swift",
         "SwiftUI",
         "Supabase"
       ],
-      "notes": ""
+      "notes": "Kinlo is being repurposed from a desk-worker health tracker into the NourishAI concept: a European lifestyle system app with 6 pillars (Eat, Move, Hydrate, Rest, Scan, Rhythm). The existing MVVM architecture, Supabase auth, onboarding flow, and notification system carry over. Next session: rebuild the data models, views, and services for the new diet/lifestyle features. The Supabase project for NourishAI (qzpljkknjcltatnwdjua) has all 11 tables and the Edge Function already deployed."
     },
     {
       "path": "/Users/aaroncougle/Apps/NourishAI",
@@ -122,7 +122,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "NourishAI MVP is running in the iOS simulator with full onboarding (9 screens), auth, macro calculator, AI meal plan generation via Claude Haiku, water tracking, and barcode product scanner with EU-banned ingredient checking. Supabase project is live with 11 tables, RLS, and Edge Function deployed. Just fixed the core auth flow (SafeAreaProvider, JWT token passing, swap atomicity). Next: food logging feature (barcode scan, photo-to-macros via Claude Vision, manual entry) and development build for physical device testing."
+      "notes": "NourishAI Expo prototype is complete and running in the iOS simulator with auth, onboarding, AI meal generation, water tracking, and product scanner. EAS Build kept failing due to Reanimated/Worklets version conflicts. Decision made to pivot to native SwiftUI using the existing Kinlo Xcode project instead of fighting Expo build issues. The Kinlo project already has auth, onboarding, Supabase, and MVVM architecture. Next session: adapt Kinlo's SwiftUI codebase to include NourishAI's 6 lifestyle pillars (Eat, Move, Hydrate, Rest, Scan, Rhythm) with AI meal plans, macro tracking, food logging (barcode + photo + manual), and EU-banned product scanner."
     },
     {
       "path": "/Users/aaroncougle/Apps/ProductDesignerDeck",
