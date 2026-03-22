@@ -204,7 +204,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "Initial build complete. Next.js 16 app with Supabase backend, Vercel cron job scanning 50 companies across Greenhouse and Ashby every 10 minutes for remote Senior Product Designer roles. PWA with push notifications. Pending: deploy to Vercel and set env vars (service role key needed from Supabase dashboard)."
+      "notes": "Radar is live and scanning 437 companies every 2 minutes across Greenhouse, Ashby, Lever, SmartRecruiters, and RemoteOK for remote Senior Product Designer roles. ATS discovery system built and run, finding valid job board endpoints for 374 companies automatically. Jobs now auto-expire after 24 hours with live-updating age badges (green/yellow/dim). Next: monitor Monday morning for real-time job flow, potentially add more companies via discovery, and set up Apify as an optional wide-net layer."
     },
     {
       "path": "/Users/aaroncougle/Apps/showcase",
