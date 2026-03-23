@@ -106,14 +106,15 @@
       "path": "/Users/aaroncougle/Apps/Kinlo",
       "display": "~/Apps/Kinlo",
       "name": "Kinlo",
-      "description": "iOS lifestyle app. European wellness system with AI meal plans, macro tracking, food logging, hydration, movement, sleep, and EU-banned product scanner.",
+      "description": "iOS health app for desk workers. Tracks workouts, water intake, and movement breaks tied to work hours. Streak-based habit reinforcement. Social gamification via friend leaderboard and challenges (Phase 2). Phase 1 MVP complete.",
       "status": "active",
       "stack": [
         "Swift",
         "SwiftUI",
-        "Supabase"
+        "Supabase",
+        "Core Data"
       ],
-      "notes": "Kinlo is being repurposed from a desk-worker health tracker into the NourishAI concept: a European lifestyle system app with 6 pillars (Eat, Move, Hydrate, Rest, Scan, Rhythm). The existing MVVM architecture, Supabase auth, onboarding flow, and notification system carry over. Next session: rebuild the data models, views, and services for the new diet/lifestyle features. The Supabase project for NourishAI (qzpljkknjcltatnwdjua) has all 11 tables and the Edge Function already deployed."
+      "notes": "Phase 1 MVP complete. Next: fresh Supabase project, App Store prep (icon, screenshots, TestFlight), then Phase 2 social layer (friend connections, weekly leaderboard, challenges, reactions)."
     },
     {
       "path": "/Users/aaroncougle/Apps/NourishAI",
