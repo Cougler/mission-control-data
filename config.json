@@ -100,7 +100,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Jira integration is live showing only the user's assigned issues across all projects. Standup generator on the Overview page produces plain-language activity summaries as doc artifacts. All empty states redesigned with graphics and inline creation (tasks, artifacts, projects, capacity). New project creation flow uses an inline form instead of a dialog. Contact form with Cloudflare Turnstile and Resend email is live on tryhierarch.com. Supabase Realtime disabled until Pro upgrade. Signup page has its own URL at /signup. Next: re-enable Linear webhook HMAC, submit Figma app for review, upgrade Supabase to Pro for custom auth domain and Realtime, build Insights view."
+      "notes": "A comprehensive Design System page is live at /design-system, publicly accessible without auth, documenting all colors, typography, spacing, radii, elevation, buttons, inputs, badges, cards, icons, phases, statuses, and artifact types. Pushed 13 accumulated commits to GitHub covering months of feature work. Attempted Figma capture of screens via MCP but z-index conflicts with modals need resolution. Next: re-enable Linear webhook HMAC, submit Figma app for review, upgrade Supabase to Pro, build Insights view, make primary action buttons consistent."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
