@@ -46,3 +46,4 @@
 {"timestamp": "2026-03-22T22:19:44.239870Z", "cwd": "/Users/aaroncougle/Apps/Kinlo", "project": "Kinlo", "summary": "Kinlo repurposed for NourishAI lifestyle concept, architecture explored and adaptation planned"}
 {"timestamp": "2026-03-23T19:27:36.978139Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Added design system page at /design-system, pushed 13 commits to GitHub, attempted Figma screen capture"}
 {"timestamp": "2026-03-24T04:43:22.735816Z", "cwd": "/Users/aaroncougle/Apps/radar", "project": "radar", "summary": "Migrated Radar database from Supabase to Neon Postgres, rewrote all API routes to raw SQL, deployed and verified live"}
+{"timestamp": "2026-03-24T13:55:25.146851Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Added Work History and GitHub links to portfolio footer (both shared and homepage inline)"}

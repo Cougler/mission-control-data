@@ -196,7 +196,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Mobile Email Editor case study has a new narrative arc: Express Send as a workaround, research-backed pushback, proven design pattern adapted in two weeks, and an experimentation section with hypothesis/test/result layout. Writing style rules are saved in memory (no em dashes, no contrastive negation patterns). Next: continue polish on remaining case studies or deploy."
+      "notes": "Portfolio footer now has Work History and GitHub links across both the shared Footer component and the homepage's inline footer. Discovered the homepage uses its own local Footer function instead of the shared component. Next: continue case study polish or add new pages."
     },
     {
       "path": "/Users/aaroncougle/Apps/prouxkit",
