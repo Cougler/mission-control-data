@@ -114,7 +114,7 @@
         "Supabase",
         "Core Data"
       ],
-      "notes": "Phase 1 MVP complete. Next: fresh Supabase project, App Store prep (icon, screenshots, TestFlight), then Phase 2 social layer (friend connections, weekly leaderboard, challenges, reactions)."
+      "notes": "Kinlo is back on its original desk-worker direction after reverting the NourishAI pivot. A fresh Supabase project (cjknuswgyujvwzpbzihj) is live with all 7 tables (4 core + 3 social) and RLS enabled, SupabaseService.swift has real credentials, and the bundle ID is fixed to com.aaroncougle.kinlo. Next: test the Xcode build, design the app icon, and begin Phase 2 social features."
     },
     {
       "path": "/Users/aaroncougle/Apps/NourishAI",
