@@ -195,7 +195,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Portfolio footer now has Work History and GitHub links across both the shared Footer component and the homepage's inline footer. Discovered the homepage uses its own local Footer function instead of the shared component. Next: continue case study polish or add new pages."
+      "notes": "Work History app is fully integrated at /work-history with three tabs: Profile (multi-variant with glass card styling), Work History (3-column project/snippet/detail explorer with right-click editing, date/platform sort, delete, markdown export), and Resumes (AI-powered via Claude Haiku with URL scraping, source resume upload, PDF export, sector filtering, localStorage persistence). All deployed to aaroncougle.com. Next: continue resume polish, add more profile variants, or expand case studies."
     },
     {
       "path": "/Users/aaroncougle/Apps/prouxkit",
