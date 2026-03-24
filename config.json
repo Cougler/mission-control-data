@@ -241,10 +241,15 @@
       "path": "/Users/aaroncougle/Apps/workhistory",
       "display": "~/Apps/workhistory",
       "name": "workhistory",
-      "description": "",
-      "status": "",
-      "stack": [],
-      "notes": ""
+      "description": "Work history visualizer + AI resume generator",
+      "status": "active",
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Claude API"
+      ],
+      "notes": "Standalone dev app for the work history tool. Three tabs: Profile, Work History, Resumes. Changes made here get synced to ~/Apps/portfolio/ for production. Next: resume polish, more profile variants."
     }
   ]
 }
