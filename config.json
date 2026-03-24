@@ -111,10 +111,9 @@
       "stack": [
         "Swift",
         "SwiftUI",
-        "Supabase",
-        "Core Data"
+        "Supabase"
       ],
-      "notes": "Kinlo is back on its original desk-worker direction after reverting the NourishAI pivot. A fresh Supabase project (cjknuswgyujvwzpbzihj) is live with all 7 tables (4 core + 3 social) and RLS enabled, SupabaseService.swift has real credentials, and the bundle ID is fixed to com.aaroncougle.kinlo. Next: test the Xcode build, design the app icon, and begin Phase 2 social features."
+      "notes": "Kinlo has undergone a full principal-level code audit and refactor touching 34 files. The app now has a design system (KinloTheme), tab-based navigation, fixed security issues (entitlements, debug buttons removed, @MainActor thread safety), working notification intervals with quiet hours, a rebuilt RecommendationsView, proper error handling, and accessibility support. Fixed a SwiftUI hang on the Work Hours onboarding step caused by wheel pickers + withAnimation conflicts. Next: test the Xcode build end-to-end, remove stale Core Data references from pbxproj, design the app icon, and begin Phase 2 social features."
     },
     {
       "path": "/Users/aaroncougle/Apps/NourishAI",
