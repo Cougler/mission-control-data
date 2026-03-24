@@ -214,7 +214,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "Radar is live and scanning 437 companies every 2 minutes across Greenhouse, Ashby, Lever, SmartRecruiters, and RemoteOK for remote Senior Product Designer roles. ATS discovery system built and run, finding valid job board endpoints for 374 companies automatically. Jobs now auto-expire after 24 hours with live-updating age badges (green/yellow/dim). Next: monitor Monday morning for real-time job flow, potentially add more companies via discovery, and set up Apify as an optional wide-net layer."
+      "notes": "Radar is fully migrated from Supabase to Neon Postgres via the Vercel integration, freeing up a Supabase project slot. All 10 API routes rewritten to use @neondatabase/serverless with raw SQL, 436 companies and 7 active job listings migrated, and the app is deployed and scanning on Neon. Next: delete the old Supabase project and optionally set up a custom domain."
     },
     {
       "path": "/Users/aaroncougle/Apps/showcase",
