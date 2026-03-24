@@ -182,7 +182,7 @@
         "Tailwind CSS",
         "Vercel"
       ],
-      "notes": "Mission Control is fully deployed on Vercel with a live project status card view \u2014 each project in ~/Apps gets a card showing its stack, status, and a Claude-written status note sorted by most recent activity. The End Mission flow is wired end-to-end: saying it updates the project's .mc.json, syncs to GitHub, and the hosted dashboard reflects it within seconds."
+      "notes": "Mission Control now has a Launch button on every project card that opens the project in Cursor with full context. The API route reads the project's mission-log.md and .mc.json, writes combined context into .cursor/rules/mission-context.mdc, then opens Cursor. Next: scaffold mission-log.md templates across projects and test the end-to-end launch flow."
     },
     {
       "path": "/Users/aaroncougle/Apps/portfolio",

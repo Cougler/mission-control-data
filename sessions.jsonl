@@ -49,3 +49,4 @@
 {"timestamp": "2026-03-24T13:55:25.146851Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Added Work History and GitHub links to portfolio footer (both shared and homepage inline)"}
 {"timestamp": "2026-03-24T14:24:58.952018Z", "cwd": "/Users/aaroncougle/Apps/Kinlo", "project": "Kinlo", "summary": "Reverted NourishAI pivot, created fresh Supabase project with full schema and RLS, fixed bundle ID, app ready for Xcode build and testing"}
 {"timestamp": "2026-03-24T15:22:48.980817Z", "cwd": "/Users/aaroncougle/Apps/Kinlo", "project": "Kinlo", "summary": "Full code audit and refactor \u2014 47 issues fixed across security, architecture, UX, and data integrity"}
+{"timestamp": "2026-03-24T16:39:57.359159Z", "cwd": "/Users/aaroncougle/Apps/mission-control", "project": "mission-control", "summary": "Added Launch button to project cards that opens Cursor with mission-log.md context auto-injected"}
