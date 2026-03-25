@@ -195,7 +195,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Portfolio copy has been fully rewritten across all 5 case studies, homepage, and about page with a principal-designer voice. The /portfolio page now has the same dot matrix + mouse trail + gradient background as the AI chat homepage via a shared DotMatrixBg component. Next: deploy to Vercel and continue polish."
+      "notes": "Portfolio has a new AI chat homepage at / powered by Claude Haiku with an interactive dot matrix background (mouse trailing, click bursts, velocity scaling, per-dot color cycling). Portfolio moved to /portfolio behind an access code gate with Supabase-backed viewer tracking, admin panel at /admin with code management, metrics, and password change. Dark/light mode toggle works across both pages. All deployed to aaroncougle.com. Next: continue chat UX polish, consider adding more project cards or refining mobile layout."
     },
     {
       "path": "/Users/aaroncougle/Apps/prouxkit",
