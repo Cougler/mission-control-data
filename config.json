@@ -195,7 +195,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Work History app is fully integrated at /work-history with three tabs: Profile (multi-variant with glass card styling), Work History (3-column project/snippet/detail explorer with right-click editing, date/platform sort, delete, markdown export), and Resumes (AI-powered via Claude Haiku with URL scraping, source resume upload, PDF export, sector filtering, localStorage persistence). All deployed to aaroncougle.com. Next: continue resume polish, add more profile variants, or expand case studies."
+      "notes": "Portfolio copy has been fully rewritten across all 5 case studies, homepage, and about page with a principal-designer voice. The /portfolio page now has the same dot matrix + mouse trail + gradient background as the AI chat homepage via a shared DotMatrixBg component. Next: deploy to Vercel and continue polish."
     },
     {
       "path": "/Users/aaroncougle/Apps/prouxkit",
