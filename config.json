@@ -195,7 +195,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Portfolio has a new AI chat homepage at / powered by Claude Haiku with an interactive dot matrix background (mouse trailing, click bursts, velocity scaling, per-dot color cycling). Portfolio moved to /portfolio behind an access code gate with Supabase-backed viewer tracking, admin panel at /admin with code management, metrics, and password change. Dark/light mode toggle works across both pages. All deployed to aaroncougle.com. Next: continue chat UX polish, consider adding more project cards or refining mobile layout."
+      "notes": "AI chat homepage at / with interactive dot matrix bg, dark/light mode, and streaming Claude Haiku responses. Portfolio at /portfolio behind Supabase access code gate with admin panel (/admin) for code management, metrics, and password changes. Hierarch and Prompt-to-Email case studies added. Project cards on chat page use static images. Gate page redirects to intended destination after auth. Mobile optimized with responsive breakpoints, stacked project cards, and iOS zoom prevention. All deployed to aaroncougle.com. Next: add DMARC case study, continue mobile polish, add images to Prompt-to-Email case study."
     },
     {
       "path": "/Users/aaroncougle/Apps/prouxkit",
