@@ -88,6 +88,15 @@
   ],
   "projects": [
     {
+      "path": "/Users/aaroncougle/Apps/AI Generate emails",
+      "display": "~/Apps/AI Generate emails",
+      "name": "AI Generate emails",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
+    },
+    {
       "path": "/Users/aaroncougle/Apps/Hierarch",
       "display": "~/Apps/Hierarch",
       "name": "Hierarch",
