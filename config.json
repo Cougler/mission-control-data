@@ -186,7 +186,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": ""
+      "notes": "KnitLab MVP is built with a 23-pattern stitch library (7 categories), SVG chart renderer, written instruction generator, manual stitch counter with keyboard shortcuts and localStorage persistence, image-based stitch counter with draggable grid overlay, and gauge calculator. The app builds clean on Next.js 16 + TypeScript + Tailwind. Next: deploy to Vercel, add more patterns, and consider PDF export for printed instructions."
     },
     {
       "path": "/Users/aaroncougle/Apps/mission-control",
