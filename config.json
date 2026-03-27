@@ -213,7 +213,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "AI chat homepage at / with interactive dot matrix bg, dark/light mode, and streaming Claude Haiku responses. Portfolio at /portfolio behind Supabase access code gate with admin panel (/admin) for code management, metrics, and password changes. Hierarch and Prompt-to-Email case studies added. Project cards on chat page use static images. Gate page redirects to intended destination after auth. Mobile optimized with responsive breakpoints, stacked project cards, and iOS zoom prevention. All deployed to aaroncougle.com. Next: add DMARC case study, continue mobile polish, add images to Prompt-to-Email case study."
+      "notes": "Prompt-to-Email case study now has full image coverage: marketing site hero, wireframes for input and results, and two shipped in-app screenshots (generated results grid + preview/refine dialog). New Challenges & Considerations section covers prompts, parameters, evaluation, and latency tradeoffs. Hierarch case study updated with new overview hero image, expanded overview copy, metrics removed, and image grid trimmed to 3 focused interaction shots. Personal projects section converted to a platform-aware carousel with wider cards for desktop products and narrower cards for mobile. All deployed to aaroncougle.com. Next: add DMARC case study, add more in-app images to Prompt-to-Email."
     },
     {
       "path": "/Users/aaroncougle/Apps/prouxkit",
