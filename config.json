@@ -213,7 +213,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Prompt-to-Email case study now has full image coverage: marketing site hero, wireframes for input and results, and two shipped in-app screenshots (generated results grid + preview/refine dialog). New Challenges & Considerations section covers prompts, parameters, evaluation, and latency tradeoffs. Hierarch case study updated with new overview hero image, expanded overview copy, metrics removed, and image grid trimmed to 3 focused interaction shots. Personal projects section converted to a platform-aware carousel with wider cards for desktop products and narrower cards for mobile. All deployed to aaroncougle.com. Next: add DMARC case study, add more in-app images to Prompt-to-Email."
+      "notes": "Work History app stripped to core 3-column explorer (no Profile/Resumes tabs). Projects rebuilt from SOT with 18 projects and 62 snippets. All deployed to aaroncougle.com. Next: add DMARC case study, continue polish."
     },
     {
       "path": "/Users/aaroncougle/Apps/prouxkit",
