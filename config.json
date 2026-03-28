@@ -122,7 +122,7 @@
         "SwiftUI",
         "Supabase"
       ],
-      "notes": "Kinlo has undergone a full principal-level code audit and refactor touching 34 files. The app now has a design system (KinloTheme), tab-based navigation, fixed security issues (entitlements, debug buttons removed, @MainActor thread safety), working notification intervals with quiet hours, a rebuilt RecommendationsView, proper error handling, and accessibility support. Fixed a SwiftUI hang on the Work Hours onboarding step caused by wheel pickers + withAnimation conflicts. Next: test the Xcode build end-to-end, remove stale Core Data references from pbxproj, design the app icon, and begin Phase 2 social features."
+      "notes": "Major visual redesign complete. The app now matches a dark-mode-first design system with true black backgrounds, lime green accent, 3-ring progress circle, Quick Actions cards with + buttons, and a leaderboard preview on the home screen. XP scoring, individual goal celebrations, streak tracking, and notification triggers are all wired up. A full gamification playbook (GAMIFICATION.md) outlines the retention strategy. Next: implement streak calendar, level titles, variable XP, and the Day 2/3 notification sequence."
     },
     {
       "path": "/Users/aaroncougle/Apps/NourishAI",
