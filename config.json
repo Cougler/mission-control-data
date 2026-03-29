@@ -68,6 +68,12 @@
       "added": "2026-03-09"
     },
     {
+      "name": "ios-developer",
+      "invoke": "/ios-developer",
+      "description": "Act as a Principal iOS Developer & Architect with 20+ years of experience at Apple, Uber, and other top-tier c\u2026",
+      "added": "2026-03-29"
+    },
+    {
       "name": "log-mission",
       "invoke": "/log-mission",
       "description": "Log the current session to Mission Control and write a handoff CLAUDE.md to the project folder so a new Claude\u2026",
