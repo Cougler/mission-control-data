@@ -125,6 +125,15 @@
       "notes": "Major visual redesign complete. The app now matches a dark-mode-first design system with true black backgrounds, lime green accent, 3-ring progress circle, Quick Actions cards with + buttons, and a leaderboard preview on the home screen. XP scoring, individual goal celebrations, streak tracking, and notification triggers are all wired up. A full gamification playbook (GAMIFICATION.md) outlines the retention strategy. Next: implement streak calendar, level titles, variable XP, and the Day 2/3 notification sequence."
     },
     {
+      "path": "/Users/aaroncougle/Apps/Kinlo (RN)",
+      "display": "~/Apps/Kinlo (RN)",
+      "name": "Kinlo (RN)",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
+    },
+    {
       "path": "/Users/aaroncougle/Apps/NourishAI",
       "display": "~/Apps/NourishAI",
       "name": "NourishAI",
