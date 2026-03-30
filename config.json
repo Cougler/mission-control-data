@@ -228,7 +228,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Work History app stripped to core 3-column explorer (no Profile/Resumes tabs). Projects rebuilt from SOT with 18 projects and 62 snippets. All deployed to aaroncougle.com. Next: add DMARC case study, continue polish."
+      "notes": "AI side sheet is live on /portfolio with Ask AI buttons on each project title and in the nav. Mouse-follow delay removed from dot matrix on both pages. Muted colors boosted for accessibility. Project cards hide on short viewports. All deployed to aaroncougle.com."
     },
     {
       "path": "/Users/aaroncougle/Apps/prouxkit",

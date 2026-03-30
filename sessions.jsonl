@@ -57,3 +57,4 @@
 {"timestamp": "2026-03-27T03:10:04.061081Z", "cwd": "/Users/aaroncougle/Apps/knitlab", "project": "knitlab", "summary": "Built KnitLab knitting pattern app with pattern library, stitch counter (manual + image), and gauge calculator"}
 {"timestamp": "2026-03-27T03:12:07.251357Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Updated Prompt-to-Email and Hierarch case studies with images, new sections, and converted personal projects to platform-aware carousel"}
 {"timestamp": "2026-03-28T13:43:10.726717Z", "cwd": "/Users/aaroncougle/Apps/Kinlo", "project": "Kinlo", "summary": "Visual redesign to dark-mode design system, XP scoring, goal celebrations, leaderboard preview, gamification playbook"}
+{"timestamp": "2026-03-30T19:22:40.473389Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Added AI side sheet to portfolio, removed mouse-follow delay, boosted muted colors, responsive fixes"}
