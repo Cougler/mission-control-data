@@ -201,6 +201,15 @@
       "notes": "Hierarch FOS marketing site is live at tryhierarch.com. All login/signup links now point to hierarchical.app. Feature sections simplified from 10 total cards to 7, integrations updated to reflect Linear + Figma (live) and Jira (coming soon), testimonials cleaned up. Next: connect tryhierarch.com domain properly, add real pricing tiers, build out remaining placeholder pages."
     },
     {
+      "path": "/Users/aaroncougle/Apps/keystroke-heatmap",
+      "display": "~/Apps/keystroke-heatmap",
+      "name": "keystroke-heatmap",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
+    },
+    {
       "path": "/Users/aaroncougle/Apps/knitlab",
       "display": "~/Apps/knitlab",
       "name": "knitlab",
