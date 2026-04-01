@@ -201,15 +201,6 @@
       "notes": "Hierarch FOS marketing site is live at tryhierarch.com. All login/signup links now point to hierarchical.app. Feature sections simplified from 10 total cards to 7, integrations updated to reflect Linear + Figma (live) and Jira (coming soon), testimonials cleaned up. Next: connect tryhierarch.com domain properly, add real pricing tiers, build out remaining placeholder pages."
     },
     {
-      "path": "/Users/aaroncougle/Apps/keystroke-heatmap",
-      "display": "~/Apps/keystroke-heatmap",
-      "name": "keystroke-heatmap",
-      "description": "",
-      "status": "",
-      "stack": [],
-      "notes": ""
-    },
-    {
       "path": "/Users/aaroncougle/Apps/knitlab",
       "display": "~/Apps/knitlab",
       "name": "knitlab",
@@ -262,6 +253,15 @@
       "status": "",
       "stack": [],
       "notes": "Radar is fully migrated from Supabase to Neon Postgres via the Vercel integration, freeing up a Supabase project slot. All 10 API routes rewritten to use @neondatabase/serverless with raw SQL, 436 companies and 7 active job listings migrated, and the app is deployed and scanning on Neon. Next: delete the old Supabase project and optionally set up a custom domain."
+    },
+    {
+      "path": "/Users/aaroncougle/Apps/screen-patina",
+      "display": "~/Apps/screen-patina",
+      "name": "screen-patina",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
     },
     {
       "path": "/Users/aaroncougle/Apps/showcase",
