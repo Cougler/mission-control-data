@@ -237,6 +237,15 @@
       "notes": "Portfolio is live at aaroncougle.com with AI chat homepage, dot matrix backgrounds, and rewritten case study copy. Dev server started on port 3002 for a quick session with no changes made. Site is stable and deployed."
     },
     {
+      "path": "/Users/aaroncougle/Apps/portfolio-concepts",
+      "display": "~/Apps/portfolio-concepts",
+      "name": "portfolio-concepts",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
+    },
+    {
       "path": "/Users/aaroncougle/Apps/prouxkit",
       "display": "~/Apps/prouxkit",
       "name": "prouxkit",
