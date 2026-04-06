@@ -264,6 +264,15 @@
       "notes": "Radar is fully migrated from Supabase to Neon Postgres via the Vercel integration, freeing up a Supabase project slot. All 10 API routes rewritten to use @neondatabase/serverless with raw SQL, 436 companies and 7 active job listings migrated, and the app is deployed and scanning on Neon. Next: delete the old Supabase project and optionally set up a custom domain."
     },
     {
+      "path": "/Users/aaroncougle/Apps/resm-ai",
+      "display": "~/Apps/resm-ai",
+      "name": "resm-ai",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": "Initial scaffold complete. Next.js 16 app with Claude Haiku integration for ATS resume tailoring. Core flow built: upload resume (PDF/DOCX/TXT), paste job description, extract keywords, tailor resume, preview with keyword analysis. No auth or payments yet."
+    },
+    {
       "path": "/Users/aaroncougle/Apps/screen-patina",
       "display": "~/Apps/screen-patina",
       "name": "screen-patina",
