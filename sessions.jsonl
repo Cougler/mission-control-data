@@ -60,3 +60,4 @@
 {"timestamp": "2026-03-30T19:22:40.473389Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Added AI side sheet to portfolio, removed mouse-follow delay, boosted muted colors, responsive fixes"}
 {"timestamp": "2026-03-31T03:41:57.344311Z", "cwd": "/Users/aaroncougle/bounty", "project": "bounty", "summary": "Built core Godot engine: two-layer world, procedural terrain, animated player, world wrapping"}
 {"timestamp": "2026-03-31T16:51:51.459568Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Quick portfolio session, no changes made"}
+{"timestamp": "2026-04-06T19:57:59.227008Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "UI polish: compact rows, responsive columns, drawer title wrap, smaller login, empty state overlay, unified primary color"}
