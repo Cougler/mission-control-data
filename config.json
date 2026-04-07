@@ -233,6 +233,15 @@
       "notes": "Mission Control now has a Launch button on every project card that opens the project in Cursor with full context. The API route reads the project's mission-log.md and .mc.json, writes combined context into .cursor/rules/mission-context.mdc, then opens Cursor. Next: scaffold mission-log.md templates across projects and test the end-to-end launch flow."
     },
     {
+      "path": "/Users/aaroncougle/Apps/modular-email-builder",
+      "display": "~/Apps/modular-email-builder",
+      "name": "modular-email-builder",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
+    },
+    {
       "path": "/Users/aaroncougle/Apps/portfolio",
       "display": "~/Apps/portfolio",
       "name": "portfolio",
