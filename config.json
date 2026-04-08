@@ -282,6 +282,21 @@
       "notes": "Radar is fully migrated from Supabase to Neon Postgres via the Vercel integration, freeing up a Supabase project slot. All 10 API routes rewritten to use @neondatabase/serverless with raw SQL, 436 companies and 7 active job listings migrated, and the app is deployed and scanning on Neon. Next: delete the old Supabase project and optionally set up a custom domain."
     },
     {
+      "path": "/Users/aaroncougle/Apps/resm",
+      "display": "~/Apps/resm",
+      "name": "resm",
+      "description": "ATS resume tailoring app (Resm.ai)",
+      "status": "active",
+      "stack": [
+        "Next.js 16",
+        "TypeScript",
+        "Tailwind v4",
+        "Claude Haiku",
+        "Supabase"
+      ],
+      "notes": "Core pipeline working: upload resume, paste JD or URL, get ATS-optimized version with before/after scoring. Neobrutalist design. Auth wired up (Supabase) but gated off for dev. Stripe payments not yet integrated. Next: fix auth flow, add Stripe, deploy."
+    },
+    {
       "path": "/Users/aaroncougle/Apps/resm-ai",
       "display": "~/Apps/resm-ai",
       "name": "resm-ai",
@@ -325,15 +340,10 @@
       "path": "/Users/aaroncougle/Apps/workhistory",
       "display": "~/Apps/workhistory",
       "name": "workhistory",
-      "description": "Work history visualizer + AI resume generator",
-      "status": "active",
-      "stack": [
-        "Next.js",
-        "TypeScript",
-        "Tailwind CSS",
-        "Claude API"
-      ],
-      "notes": "Standalone dev app for the work history tool. Three tabs: Profile, Work History, Resumes. Changes made here get synced to ~/Apps/portfolio/ for production. Next: resume polish, more profile variants."
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
     }
   ]
 }
