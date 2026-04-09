@@ -239,7 +239,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "The editor is functional with 11 email section types (preheader through footer, 39 variations total), a drag-and-drop sidebar, inline content editing, variation cycling, and JSON export. Just finished migrating from @dnd-kit/core to @dnd-kit/react and rebuilding the drop indicator system with manual hit testing against block bounding rects to eliminate collision detection conflicts. Next: polish drop interactions, test edge cases, and start thinking about export formats for Constant Contact and other providers."
+      "notes": "All 70 variations from the email anatomy doc are implemented across 11 section types. The UI now uses claymorphic floating panels: a single left panel that switches between a Layouts browser and a per-block Settings view with variation picker, element visibility toggles, and content fields. Drop indicators use manual bounding-rect hit testing and zero-layout-shift rendering. Next: rich text editing, image URL support, and Constant Contact export."
     },
     {
       "path": "/Users/aaroncougle/Apps/portfolio",
