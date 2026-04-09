@@ -121,7 +121,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "UI polish pass deployed: compact task rows, responsive column widths capped to viewport, drawer title wraps with dynamic font sizing (24px down to 15px by character count), login screen footprint reduced, recent progress empty state now overlays message on faded sample data, and primary color unified to #bf7535 across light and dark mode. Next: re-enable Linear webhook HMAC, submit Figma app for review, upgrade Supabase to Pro, build Insights view."
+      "notes": "GDPR compliance work is underway. The drawer system now respects item hierarchy (tasks auto-nest inside their project, artifacts show full project > task > artifact breadcrumb) instead of blindly stacking unrelated items. A privacy policy page is live at /privacy with links from both login and signup screens. Next: fix account deletion to fully clean up all user data, add data export endpoint, add retention policies for Figma/Jira webhook tables."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",

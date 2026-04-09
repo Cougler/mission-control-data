@@ -62,3 +62,4 @@
 {"timestamp": "2026-03-31T16:51:51.459568Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Quick portfolio session, no changes made"}
 {"timestamp": "2026-04-06T19:57:59.227008Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "UI polish: compact rows, responsive columns, drawer title wrap, smaller login, empty state overlay, unified primary color"}
 {"timestamp": "2026-04-08T04:08:26.524139Z", "cwd": "/Users/aaroncougle/Apps/modular-email-builder", "project": "modular-email-builder", "summary": "Built modular email editor with 11 section types, drag-and-drop, variation cycling, and manual hit-test drop indicators"}
+{"timestamp": "2026-04-09T14:30:28.407183Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Fixed drawer hierarchy stacking, added privacy policy page, started GDPR compliance work"}
