@@ -294,7 +294,7 @@
         "Claude Haiku",
         "Supabase"
       ],
-      "notes": "Core pipeline working: upload resume, paste JD or URL, get ATS-optimized version with before/after scoring. Neobrutalist design. Auth wired up (Supabase) but gated off for dev. Stripe payments not yet integrated. Next: fix auth flow, add Stripe, deploy."
+      "notes": "Block-based resume editor is live with a three-panel workspace: left sidebar (doc list, JD input, export), center (editable block document), right (live ATS score panel). Tailoring creates a new document copy with a 'Qualifications Aligned to [Company] Role' section injected, leaving the original untouched. Each text block supports H1/H2/H3/P formatting with bullet toggle, and per-type typography settings. URL scraping works for Ashby/Greenhouse/Lever job boards. Next: polish export quality (DOCX/PDF from blocks), wire up 'reword with AI' on individual bullets, re-enable Supabase auth, add Stripe payments."
     },
     {
       "path": "/Users/aaroncougle/Apps/resm-ai",
