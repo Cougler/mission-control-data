@@ -210,15 +210,6 @@
       "notes": ""
     },
     {
-      "path": "/Users/aaroncougle/Apps/framecast",
-      "display": "~/Apps/framecast",
-      "name": "framecast",
-      "description": "",
-      "status": "",
-      "stack": [],
-      "notes": ""
-    },
-    {
       "path": "/Users/aaroncougle/Apps/hierarch-fos",
       "display": "~/Apps/hierarch-fos",
       "name": "hierarch-fos",
@@ -331,6 +322,15 @@
       "status": "",
       "stack": [],
       "notes": "Showcase is live at showcase.aaroncougle.com with 4 slides using a clean flex-based bento layout \u2014 2/3 hero on the left, stacked thumbnails on the right on desktop. Mobile stacks them vertically with a 250px hero on top and a horizontal thumbnail row below. The site is fully deployed and polished; no pending tasks."
+    },
+    {
+      "path": "/Users/aaroncougle/Apps/studioframe",
+      "display": "~/Apps/studioframe",
+      "name": "studioframe",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
