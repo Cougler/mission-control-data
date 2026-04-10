@@ -315,15 +315,6 @@
       "notes": "Block-based resume editor is live with a three-panel workspace: left sidebar (doc list, JD input, export), center (editable block document), right (live ATS score panel). Tailoring creates a new document copy with a 'Qualifications Aligned to [Company] Role' section injected, leaving the original untouched. Each text block supports H1/H2/H3/P formatting with bullet toggle, and per-type typography settings. URL scraping works for Ashby/Greenhouse/Lever job boards. Next: polish export quality (DOCX/PDF from blocks), wire up 'reword with AI' on individual bullets, re-enable Supabase auth, add Stripe payments."
     },
     {
-      "path": "/Users/aaroncougle/Apps/resm-ai",
-      "display": "~/Apps/resm-ai",
-      "name": "resm-ai",
-      "description": "",
-      "status": "",
-      "stack": [],
-      "notes": "Initial scaffold complete. Next.js 16 app with Claude Haiku integration for ATS resume tailoring. Core flow built: upload resume (PDF/DOCX/TXT), paste job description, extract keywords, tailor resume, preview with keyword analysis. No auth or payments yet."
-    },
-    {
       "path": "/Users/aaroncougle/Apps/screen-patina",
       "display": "~/Apps/screen-patina",
       "name": "screen-patina",
