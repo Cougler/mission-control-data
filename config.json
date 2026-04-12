@@ -330,7 +330,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "StudioFrame is live at studiofra.me. Single-file prototype viewer with mobile/web device frames, custom gradient builder, color picker, webcam pip, screen recording with MP4 conversion, and collapsible sidebar. Next: Supabase auth, Gumroad payment integration, Tauri desktop wrapper."
+      "notes": "Electron desktop app is fully functional with frameless window, vertical toolbar with flyout menus, Google OAuth via Supabase (with persistent file-based sessions), splash screen with FFmpeg license, and QuickTime/Snipping Tool integration. Sidebar reorganized into Device and Background sections with drop shadow controls, color sampler, loading states, and pinned account bar. Next: bundle FFmpeg in the .dmg, finish Apple OAuth setup, and build the marketing site."
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
