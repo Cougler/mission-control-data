@@ -294,7 +294,7 @@
       "path": "/Users/aaroncougle/Apps/resm",
       "display": "~/Apps/resm",
       "name": "resm",
-      "description": "ATS resume tailoring app (Resm.ai)",
+      "description": "ATS resume tailoring app (Spicy Resume)",
       "status": "active",
       "stack": [
         "Next.js 16",
