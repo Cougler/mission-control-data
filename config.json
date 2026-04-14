@@ -261,7 +261,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Portfolio is live at aaroncougle.com with no password gate. Middleware was gutted to pass all requests through unconditionally. The /gate page and related API routes still exist but are dead code. Next: clean up those leftover gate files if desired."
+      "notes": "Portfolio is live with password gate removed, tile metrics stripped from all 6 case studies in favor of plain text topMetrics, sidebar back button removed, sidebar-to-content gap widened, prompt-to-email has a new hero background image with color overlay, case study dark theme text brightened, and glass cards dim slightly on hover. Dead code remains: /gate page, verify-code API, MetricCard component, BackButton component."
     },
     {
       "path": "/Users/aaroncougle/Apps/portfolio-concepts",

@@ -69,3 +69,4 @@
 {"timestamp": "2026-04-09T14:41:46.274715Z", "cwd": "/Users/aaroncougle/Apps/resm", "project": "resm", "summary": "Session complete: block editor, tailoring as doc copies, per-type typography, ATS scoring"}
 {"timestamp": "2026-04-12T02:06:24.254577Z", "cwd": "/Users/aaroncougle/Apps/studioframe", "project": "studioframe", "summary": "Major Electron app overhaul: auth, sidebar reorg, recording flyouts, drop shadow, color sampler, splash screen"}
 {"timestamp": "2026-04-13T21:12:44.544849Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Removed password gate middleware and deployed to production"}
+{"timestamp": "2026-04-14T04:24:52.302065Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Removed password gate, tile metrics, back button; added P2E hero bg, brightened dark theme, glass hover dim"}
