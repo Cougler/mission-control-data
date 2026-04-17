@@ -330,7 +330,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "Electron desktop app is fully functional with frameless window, vertical toolbar with flyout menus, Google OAuth via Supabase (with persistent file-based sessions), splash screen with FFmpeg license, and QuickTime/Snipping Tool integration. Sidebar reorganized into Device and Background sections with drop shadow controls, color sampler, loading states, and pinned account bar. Next: bundle FFmpeg in the .dmg, finish Apple OAuth setup, and build the marketing site."
+      "notes": "Camera/mic entitlements fixed for bundled .app, Tauri removed (Electron only now). New background presets added (stripes, grid, dots, gradients) with scale/rotate sliders. Convert button uses inline SVG. Record flyout updated to show file formats and convert tool note. Marketing site at site/index.html has an interactive demo with wireframe app in phone/desktop frames, full sidebar mirroring the real product (URL, Device, Background sections), and working background/shadow/scale controls. Next: deploy marketing site, finish Apple OAuth, build payment gating."
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
