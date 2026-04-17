@@ -130,7 +130,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "GDPR compliance work is underway. The drawer system now respects item hierarchy (tasks auto-nest inside their project, artifacts show full project > task > artifact breadcrumb) instead of blindly stacking unrelated items. A privacy policy page is live at /privacy with links from both login and signup screens. Next: fix account deletion to fully clean up all user data, add data export endpoint, add retention policies for Figma/Jira webhook tables."
+      "notes": "Mobile responsiveness is solid now. The unified drawer system works on mobile as a full-screen slide-up with iOS-style back/close navigation, projects open in drawers, and task push works within project context. Drag-to-reorder is gated behind a toggle on mobile so scrolling works cleanly. Recent Progress feed shows the latest 20 items regardless of age. The onboarding, project details, and new task dialogs all render as mobile-friendly drawers. Next: GDPR cleanup (account deletion, data export, retention policies)."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
