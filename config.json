@@ -321,7 +321,7 @@
         "Claude Haiku",
         "Supabase"
       ],
-      "notes": "Block-based resume editor is live with a three-panel workspace: left sidebar (doc list, JD input, export), center (editable block document), right (live ATS score panel). Tailoring creates a new document copy with a 'Qualifications Aligned to [Company] Role' section injected, leaving the original untouched. Each text block supports H1/H2/H3/P formatting with bullet toggle, and per-type typography settings. URL scraping works for Ashby/Greenhouse/Lever job boards. Next: polish export quality (DOCX/PDF from blocks), wire up 'reword with AI' on individual bullets, re-enable Supabase auth, add Stripe payments."
+      "notes": "Renamed to Spicy Resume with chili pepper branding, warm color scheme, and custom domain spicyresu.me. Work History tab has an 11-step wizard that generates AI-categorized resume bullets (Impact/Execution/Strategy/Collaboration/Leadership) and a Project Story narrative for portfolio/interview use. Bullets are draggable from a Work History Library panel into the resume editor. Supabase auth is wired up with Google OAuth and magic link (sign out still has issues). PDF export now builds directly from blocks preserving typography settings. Major cleanup removed all legacy snippet/platform code. Next: fix sign out reliability, Stripe payments, deploy latest auth fixes."
     },
     {
       "path": "/Users/aaroncougle/Apps/studioframe",
