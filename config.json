@@ -306,7 +306,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "Showcase is live at showcase.aaroncougle.com with 4 slides using a clean flex-based bento layout \u2014 2/3 hero on the left, stacked thumbnails on the right on desktop. Mobile stacks them vertically with a 250px hero on top and a horizontal thumbnail row below. The site is fully deployed and polished; no pending tasks."
+      "notes": "Showcase rebuilt as a VS Code-style code editor portfolio for the arrivia Sr. Product Designer interview. 15 project files across 4 folders with tab management, lightbox, and stats. Images added for mWeb Gamification, Mobile Email Editor, BrandKit, Prompt-to-Email, Contacts Upload, Spicy Resume, StudioFrame, and Hierarch. Live at showcase.aaroncougle.com."
     },
     {
       "path": "/Users/aaroncougle/Apps/spicy-resume",
