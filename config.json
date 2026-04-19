@@ -321,7 +321,7 @@
         "Claude Haiku",
         "Supabase"
       ],
-      "notes": "Renamed to Spicy Resume with chili pepper branding, warm color scheme, and custom domain spicyresu.me. Work History tab has an 11-step wizard that generates AI-categorized resume bullets (Impact/Execution/Strategy/Collaboration/Leadership) and a Project Story narrative for portfolio/interview use. Bullets are draggable from a Work History Library panel into the resume editor. Supabase auth is wired up with Google OAuth and magic link (sign out still has issues). PDF export now builds directly from blocks preserving typography settings. Major cleanup removed all legacy snippet/platform code. Next: fix sign out reliability, Stripe payments, deploy latest auth fixes."
+      "notes": "Redesigned with modern neo-brutalist/flat blend UI. Tabbed sidebar (Resumes + Work History), inline block editing via sidebar panel, per-card export/delete menus, tailor-to-job popover. Supabase document storage is live with RLS, auto-migration from localStorage on first login. PDF export downloads directly. Next: re-enable auth gates, Stripe payments, work history Supabase sync."
     },
     {
       "path": "/Users/aaroncougle/Apps/studioframe",
