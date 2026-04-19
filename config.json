@@ -330,7 +330,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "Camera/mic entitlements fixed for bundled .app, Tauri removed (Electron only now). New background presets added (stripes, grid, dots, gradients) with scale/rotate sliders. Convert button uses inline SVG. Record flyout updated to show file formats and convert tool note. Marketing site at site/index.html has an interactive demo with wireframe app in phone/desktop frames, full sidebar mirroring the real product (URL, Device, Background sections), and working background/shadow/scale controls. Next: deploy marketing site, finish Apple OAuth, build payment gating."
+      "notes": "StudioFrame is now a web app at app.studiofra.me with the marketing site at studiofra.me. Converted from Electron to browser-based with a Supabase auth shim, browser-native recording via getDisplayMedia, and graceful degradation for desktop-only features. Fixed a persistent iframe gap bug caused by 100vh shifting in browsers (switched to 100dvh). Background tab renamed to Pattern with rotate control hidden for images. Next: payment/subscription gating and Apple OAuth."
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
