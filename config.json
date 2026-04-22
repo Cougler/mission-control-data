@@ -264,15 +264,6 @@
       "notes": "Portfolio is live with password gate removed, tile metrics stripped from all 6 case studies in favor of plain text topMetrics, sidebar back button removed, sidebar-to-content gap widened, prompt-to-email has a new hero background image with color overlay, case study dark theme text brightened, and glass cards dim slightly on hover. Dead code remains: /gate page, verify-code API, MetricCard component, BackButton component."
     },
     {
-      "path": "/Users/aaroncougle/Apps/portfolio-concepts",
-      "display": "~/Apps/portfolio-concepts",
-      "name": "portfolio-concepts",
-      "description": "",
-      "status": "",
-      "stack": [],
-      "notes": ""
-    },
-    {
       "path": "/Users/aaroncougle/Apps/prouxkit",
       "display": "~/Apps/prouxkit",
       "name": "prouxkit",
@@ -331,6 +322,15 @@
       "status": "",
       "stack": [],
       "notes": "StudioFrame is now a web app at app.studiofra.me with the marketing site at studiofra.me. Converted from Electron to browser-based with a Supabase auth shim, browser-native recording via getDisplayMedia, and graceful degradation for desktop-only features. Fixed a persistent iframe gap bug caused by 100vh shifting in browsers (switched to 100dvh). Background tab renamed to Pattern with rotate control hidden for images. Next: payment/subscription gating and Apple OAuth."
+    },
+    {
+      "path": "/Users/aaroncougle/Apps/superhumble",
+      "display": "~/Apps/superhumble",
+      "name": "superhumble",
+      "description": "",
+      "status": "",
+      "stack": [],
+      "notes": ""
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
