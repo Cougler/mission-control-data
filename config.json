@@ -327,10 +327,14 @@
       "path": "/Users/aaroncougle/Apps/superhumble",
       "display": "~/Apps/superhumble",
       "name": "superhumble",
-      "description": "",
-      "status": "",
-      "stack": [],
-      "notes": ""
+      "description": "Design studio parent site for all ventures",
+      "status": "active",
+      "stack": [
+        "Next.js 16",
+        "TypeScript",
+        "Tailwind v4"
+      ],
+      "notes": "Homepage redesigned with Dieter Rams-inspired editorial layout. Content structured around two key concerns: trust/reliability and strategic context, with services and ventures sections below. Page transition wipe and scroll-reveal animations implemented. Dev server requires --hostname 127.0.0.1 flag due to localhost IPv6 resolution issue on this machine. Aaron is actively tweaking hero copy, nav styling (text wordmark instead of image logo, removed uppercase from nav links, removed border), and layout (hero changed from 12-col grid to stacked flex). Next: finalize copy, add real images to placeholder slots, deploy to Vercel."
     },
     {
       "path": "/Users/aaroncougle/Apps/website-analyzer",
