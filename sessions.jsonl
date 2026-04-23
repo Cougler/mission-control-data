@@ -75,3 +75,4 @@
 {"timestamp": "2026-04-17T19:06:07.287535Z", "cwd": "/Users/aaroncougle/Apps/studioframe", "project": "studioframe", "summary": "Fixed camera entitlements, removed Tauri, added background presets with scale/rotate, built interactive marketing site demo with wireframe app and full sidebar controls"}
 {"timestamp": "2026-04-19T13:05:52.138527Z", "cwd": "/Users/aaroncougle/Apps/studioframe", "project": "studioframe", "summary": "Converted StudioFrame from Electron to web app, deployed to app.studiofra.me, fixed iframe gap bug with 100dvh"}
 {"timestamp": "2026-04-23T02:50:11.810590Z", "cwd": "/Users/aaroncougle/Apps/studioframe", "project": "studioframe", "summary": "Redesigned record flyout for web with accurate WebM compatibility and QuickTime tip"}
+{"timestamp": "2026-04-23T02:50:29.412268Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Replaced AI drawer with floating chat window + FAB, fixed brandkit preview image paths"}

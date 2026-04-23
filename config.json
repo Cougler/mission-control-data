@@ -261,7 +261,7 @@
         "TypeScript",
         "Tailwind CSS"
       ],
-      "notes": "Portfolio is live with password gate removed, tile metrics stripped from all 6 case studies in favor of plain text topMetrics, sidebar back button removed, sidebar-to-content gap widened, prompt-to-email has a new hero background image with color overlay, case study dark theme text brightened, and glass cards dim slightly on hover. Dead code remains: /gate page, verify-code API, MetricCard component, BackButton component."
+      "notes": "Portfolio is live. The /portfolio page AI chat was replaced with a floating window and FAB instead of the old full-screen drawer. Brand kit preview image paths were fixed on the homepage. Next: deploy the brandkit path fix to production, and continue polish."
     },
     {
       "path": "/Users/aaroncougle/Apps/prouxkit",
