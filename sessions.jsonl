@@ -77,3 +77,4 @@
 {"timestamp": "2026-04-23T02:50:11.810590Z", "cwd": "/Users/aaroncougle/Apps/studioframe", "project": "studioframe", "summary": "Redesigned record flyout for web with accurate WebM compatibility and QuickTime tip"}
 {"timestamp": "2026-04-23T02:50:29.412268Z", "cwd": "/Users/aaroncougle/Apps/portfolio", "project": "portfolio", "summary": "Replaced AI drawer with floating chat window + FAB, fixed brandkit preview image paths"}
 {"timestamp": "2026-04-23T18:00:37.893585Z", "cwd": "/Users/aaroncougle/Apps/spicy-resume", "project": "spicy-resume", "summary": "Redesigned ATS panel with proficiency tiers and keyword highlighting, fixed PDF export for Vercel, polished sidebar UI"}
+{"timestamp": "2026-04-23T18:00:43.215350Z", "cwd": "/Users/aaroncougle/Apps/Hierarch", "project": "Hierarch", "summary": "Smart Paste feature, entitlements system, upsell dialog, cone blocker icon"}
