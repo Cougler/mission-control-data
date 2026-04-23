@@ -321,7 +321,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "StudioFrame is now a web app at app.studiofra.me with the marketing site at studiofra.me. Converted from Electron to browser-based with a Supabase auth shim, browser-native recording via getDisplayMedia, and graceful degradation for desktop-only features. Fixed a persistent iframe gap bug caused by 100vh shifting in browsers (switched to 100dvh). Background tab renamed to Pattern with rotate control hidden for images. Next: payment/subscription gating and Apple OAuth."
+      "notes": "StudioFrame web app is live at app.studiofra.me with marketing site at studiofra.me. Record flyout redesigned for web: StudioFrame option shows accurate WebM platform compatibility (YouTube, Facebook), QuickTime option is an informational tip, and a download-the-app CTA links to the marketing site. Canvas background uses inset:0 with scale(1.42) on rotate instead of oversized container. Next: payment/subscription gating, Apple OAuth, and marketing site buildout."
     },
     {
       "path": "/Users/aaroncougle/Apps/superhumble",
