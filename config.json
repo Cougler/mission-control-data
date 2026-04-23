@@ -130,7 +130,7 @@
         "shadcn/ui",
         "Supabase"
       ],
-      "notes": "Mobile responsiveness is solid now. The unified drawer system works on mobile as a full-screen slide-up with iOS-style back/close navigation, projects open in drawers, and task push works within project context. Drag-to-reorder is gated behind a toggle on mobile so scrolling works cleanly. Recent Progress feed shows the latest 20 items regardless of age. The onboarding, project details, and new task dialogs all render as mobile-friendly drawers. Next: GDPR cleanup (account deletion, data export, retention policies)."
+      "notes": "Smart Paste with AI parsing is live. Users paste any text, Claude Haiku extracts tasks/artifacts/projects, and items land in a Quick Notes staging area for review before confirmation. A full entitlements system gates free users to 1 project, 30 tasks, 1 artifact per task, with no integrations, Capacity, or AI parsing. Demo mode shows pro features except AI (upsell dialog with $9/mo or $90/yr). Blocker icon switched from Lock to a custom cone SVG. Next: set up Stripe for premium subscriptions, then wire the checkout flow to the upgrade prompts."
     },
     {
       "path": "/Users/aaroncougle/Apps/Kinlo",
@@ -312,7 +312,7 @@
         "Claude Haiku",
         "Supabase"
       ],
-      "notes": "Redesigned with modern neo-brutalist/flat blend UI. Tabbed sidebar (Resumes + Work History), inline block editing via sidebar panel, per-card export/delete menus, tailor-to-job popover. Supabase document storage is live with RLS, auto-migration from localStorage on first login. PDF export downloads directly. Next: re-enable auth gates, Stripe payments, work history Supabase sync."
+      "notes": "ATS panel redesigned with floating card UI, keyword checklist with proficiency tiers (expert/proficient/familiar/mentioned), and hover-to-highlight linking keywords to resume text. PDF export fixed for Vercel using puppeteer-core + @sparticuz/chromium-min with proper margins and an exporting dialog. Left sidebar matches right panel's floating rounded card style. Work history groups projects by company. Tailor CTA is a full-width tertiary button. Nav rail has instant tooltips. Next: re-enable auth gates, Stripe payments, work history Supabase sync."
     },
     {
       "path": "/Users/aaroncougle/Apps/studioframe",
