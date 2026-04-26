@@ -96,6 +96,12 @@
       "invoke": "/start-mission",
       "description": "Start a project's local dev server and the Mission Control dashboard simultaneously.",
       "added": "2026-03-10"
+    },
+    {
+      "name": "web-designer",
+      "invoke": "/web-designer",
+      "description": "Act as a senior web designer with 15+ years of SaaS website experience",
+      "added": "2026-04-26"
     }
   ],
   "projects": [
