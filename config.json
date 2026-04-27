@@ -276,7 +276,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "All 9 tools built and styled with light mode Coolors-inspired design. Custom wrench logo with favicon. Deployed to Vercel with prouxkit.com domain configured."
+      "notes": "Pro UX Kit now has 11 tools across Design and Development sections. Just added Tailwind Glossary and CSS Glossary with 3-column layouts, live visual previews, and searchable property lists. Also added recent color swatches to Color Sampler with localStorage persistence, redesigned the sidebar with section labels, Notion-style collapse toggle, and purple-bg wrench icon. Next: deploy to Vercel and consider adding more preview coverage to the glossaries."
     },
     {
       "path": "/Users/aaroncougle/Apps/radar",
