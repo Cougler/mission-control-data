@@ -222,7 +222,7 @@
       "description": "",
       "status": "",
       "stack": [],
-      "notes": "Hierarch FOS marketing site is live at tryhierarch.com. All login/signup links now point to hierarchical.app. Feature sections simplified from 10 total cards to 7, integrations updated to reflect Linear + Figma (live) and Jira (coming soon), testimonials cleaned up. Next: connect tryhierarch.com domain properly, add real pricing tiers, build out remaining placeholder pages."
+      "notes": "Marketing site content restructured with a full narrative arc. New sections: Pain amplification, Design Phases as hero feature (two-level system), refocused Overview, Artifacts + Blockers with inline testimonials, compact Integrations, and Pricing Snapshot. First draft compiles clean. Next: review live page together and iterate on copy, visuals, and spacing."
     },
     {
       "path": "/Users/aaroncougle/Apps/knitlab",
