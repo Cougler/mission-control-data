@@ -62,6 +62,12 @@
       "added": "2026-03-06"
     },
     {
+      "name": "foundation",
+      "invoke": "/foundation",
+      "description": "Build the public-facing foundation needed to ship an app to the web \u2014 Terms of Service, Privacy Notice, and a \u2026",
+      "added": "2026-05-02"
+    },
+    {
       "name": "handoff",
       "invoke": "/handoff",
       "description": "Read a project's handoff file and resume work exactly where the last session left off.",
